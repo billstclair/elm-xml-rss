@@ -94,7 +94,15 @@ br =
 view : Model -> Html Msg
 view model =
     div []
-        [ p []
+        [ p [ style "color" "red" ]
+            [ case model.error of
+                Just err ->
+                    text err
+
+                Nothing ->
+                    text ""
+            ]
+        , p []
             [ b "Url: "
             , input
                 [ value model.url

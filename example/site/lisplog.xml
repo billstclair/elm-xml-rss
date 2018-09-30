@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0" xml:base="http://lisplog.org/">
+<channel>
+ <title>Lisplog</title>
+ <link>http://lisplog.org/</link>
+ <description>Blogging in Lisp</description>
+ <language>en</language>
+ <managingEditor>Bill St. Clair</managingEditor>
+ <generator>Lisplog</generator>
+<item>
+ <title>Quote</title>
+ <link>http://lisplog.org/quote_2.html</link>
+ <description>&lt;p&gt;&quot;APL is like a diamond. It has a beautiful crystal structure; all of its parts are related in a uniform and elegant way. But if you try to extend this structure in any way - even by adding another diamond - you get an ugly kludge. LISP, on the other hand, is like a ball of mud. You can add any amount of mud to it and it still looks like a ball of mud.&quot; -- Joel Moses&lt;/p&gt;</description>
+ <pubDate>Wed, 19 Sep 2018 10:04:00 GMT</pubDate>
+</item>
+<item>
+ <title>How do I run elm-test in Elm 0.19?</title>
+ <link>http://lisplog.org/elm-test-19</link>
+ <description>&lt;p&gt;This is a FAQ, so I&#039;m making a blog post to answer it.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;elm-test&lt;/code&gt; is still in beta for Elm 0.19. To install it:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;pre&gt;$ npm install -g elm-test@beta&lt;/pre&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;The &lt;code&gt;tests&lt;/code&gt; directory no longer needs an &lt;code&gt;elm-package.json&lt;/code&gt; file (nor does it need &lt;code&gt;elm.json&lt;/code&gt;).&lt;/p&gt;
+
+&lt;p&gt;Your top-level &lt;code&gt;elm.json&lt;/code&gt; file needs to include the following:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;pre&gt;    &quot;test-dependencies&quot;: {
+        &quot;elm-explorations/test&quot;: &quot;1.0.0 &lt;= v &lt; 2.0.0&quot;
+    }&lt;/pre&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;The easiest way to get it there is with &lt;code&gt;elm-test&lt;/code&gt; itself. The following will create a &lt;code&gt;tests&lt;/code&gt; directory, containing an example test file, &lt;code&gt;Example.elm&lt;/code&gt;, and will add &lt;code&gt;test-dependencies&lt;/code&gt; to &lt;code&gt;elm.json&lt;/code&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;pre&gt;$ elm-test init&lt;/pre&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;That&#039;s it. There is not yet support for running &lt;code&gt;elm-test&lt;/code&gt; in the browser, nor is there support for testing DOM output.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#039;https://package.elm-lang.org/packages/billstclair/elm-localstorage/latest&#039;&gt;billstclair/elm-localstorage&lt;/a&gt; is configured with a &lt;code&gt;tests&lt;/code&gt; directory to test its JSON encoders and decoders: &lt;a href=&#039;https://github.com/billstclair/elm-localstorage&#039;&gt;github.com/billstclair/elm-localstorage&lt;/a&gt;. To run the tests:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;pre&gt;$ git clone git@github.com:billstclair/elm-localstorage.git
+$ cd elm-localstorage
+$ elm-test&lt;/pre&gt;&lt;/blockquote&gt;
+</description>
+ <pubDate>Mon, 17 Sep 2018 00:24:33 GMT</pubDate>
+</item>
+<item>
+ <title>CLtL2 on Kludges</title>
+ <link>http://lisplog.org/cltl2_on_kludges.html</link>
+ <description>&lt;p&gt;Lest we believe we&#039;re building amazing systems as programmers, always remember that &lt;i&gt;Common Lisp the Language, Second Edition&lt;/i&gt;, by Guy L. Steele, Jr. (CLtL2), has an index entry for &quot;kludges&quot;, saying that they appear on pages 1 to 971. Page 972 is the &quot;References&quot; section.&lt;/p&gt;
+
+&lt;p style=&#039;text-align: center;&#039;&gt;&lt;img src=&#039;./images/cltl2-kludges.jpg&#039; width=&#039;499&#039; height=&#039;696&#039; alt=&#039;kludges&#039;/&gt;&lt;/p&gt;</description>
+ <pubDate>Sat, 15 Sep 2018 11:26:58 GMT</pubDate>
+</item>
+<item>
+ <title>iPhone Xs Pricing</title>
+ <link>http://lisplog.org/iphone_xs_pricing.html</link>
+ <description>&lt;style&gt;
+table.iphonetable {
+  margin: 0em 0.5em 0.5em 0.5em;
+  background: whitesmoke;
+  border-collapse: collapse;
+  font-size: 100%;
+}
+table.iphonetable th, table.iphonetable td {
+  border: 1px silver solid;
+  padding: 0.2em;
+}
+table.iphonetable th {
+  background: gainsboro;
+  text-align: center;
+}
+table.iphonetable td {
+  text-align: right;
+}
+.r {
+  text-align: right;
+}
+&lt;/style&gt;
+
+&lt;p&gt;From the &lt;a href=&#039;https://www.apple.com/iphone/&#039;&gt;www.apple.com/iphone&lt;/a&gt; pages.&lt;/p&gt;
+
+&lt;p&gt;Watch the &lt;a href=&#039;https://www.apple.com/apple-events/september-2018/&#039;&gt;12 September keynote&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Prices (in parentheses) are per month for Apple financing.&lt;/p&gt;
+
+&lt;table class=&#039;iphonetable&#039;&gt;
+&lt;tr&gt;
+&lt;th&gt;Model&lt;/th&gt;&lt;th&gt;64 gig&lt;/th&gt;&lt;th&gt;128 gig&lt;/th&gt;&lt;th&gt;256 gig&lt;/th&gt;&lt;th&gt;512 gig&lt;/th&gt;&lt;th&gt;Order&lt;/th&gt;&lt;th&gt;Ship&lt;/th&gt;
+&lt;/tr&gt;&lt;tr&gt;
+&lt;th style=&#039;text-align: right;&#039;&gt;iPhone Xs:&lt;/th&gt;&lt;td&gt;$999&lt;br/&gt;($49.91)&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;$1149&lt;br/&gt;($56.16)&lt;/td&gt;&lt;td&gt;$1349&lt;br/&gt;($64.50)&lt;/td&gt;&lt;td rowspan=&#039;2&#039;&gt;9/14&lt;/td&gt;&lt;td rowspan=&#039;2&#039;&gt;9/21&lt;/td&gt;
+&lt;/tr&gt;&lt;tr&gt;
+&lt;th style=&#039;text-align: right;&#039;&gt;Xs Max:&lt;/th&gt;&lt;td&gt;$1099&lt;br/&gt;($54.08)&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;$1249&lt;br/&gt;($60.33)&lt;/td&gt;&lt;td&gt;$1449&lt;br/&gt;($68.66)&lt;/td&gt;
+&lt;/tr&gt;&lt;tr&gt;
+&lt;th style=&#039;text-align: right;&#039;&gt;Xr:&lt;/th&gt;&lt;td&gt;$749&lt;br/&gt;($37.41)&lt;/td&gt;&lt;td&gt;$799&lt;br/&gt;($39.50)&lt;/td&gt;&lt;td&gt;$899&lt;br/&gt;($43.66)&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;10/19&lt;/td&gt;&lt;td&gt;10/26&lt;/td&gt;
+&lt;/tr&gt;&lt;tr&gt;
+&lt;th style=&#039;text-align: right;&#039;&gt;iOS 12:&lt;/th&gt;&lt;td colspan=&#039;5&#039; style=&#039;text-align: center;&#039;&gt;Free&lt;/td&gt;&lt;td&gt;9/17&lt;/td&gt;
+&lt;/tr&gt;&lt;tr&gt;
+&lt;th style=&#039;text-align: right;&#039;&gt;macOS&lt;br/&gt;Mojave&lt;/th&gt;&lt;td colspan=&#039;5&#039; style=&#039;text-align: center;&#039;&gt;Free&lt;/td&gt;&lt;td&gt;9/24&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+</description>
+ <pubDate>Wed, 12 Sep 2018 19:22:55 GMT</pubDate>
+</item>
+<item>
+ <title>New Elm Package: billstclair/elm-port-funnel</title>
+ <link>http://lisplog.org/elm-port-funnel.html</link>
+ <description>&lt;p&gt;I just published version 1.0.0 of &lt;code&gt;billstclair/elm-port-funnel&lt;/code&gt;. It enables communicating with ALL of your custom JavaScript through a single &lt;code&gt;Cmd&lt;/code&gt;/&lt;code&gt;Sub&lt;/code&gt; port pair. It takes care of loading the JavaScript code, which you simply drop in a directory and add to a list, and dispatching messages from your Elm code. It allows pure-Elm simulators, to make testing your app easy in `elm reactor`.&lt;/p&gt;
+
+&lt;p&gt; &lt;a href=&#039;https://package.elm-lang.org/packages/billstclair/elm-port-funnel/latest&#039;&gt;https://package.elm-lang.org/packages/billstclair/elm-port-funnel/latest&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The example is live at &lt;a href=&#039;https://billstclair.github.io/elm-port-funnel&#039;&gt;https://billstclair.github.io/elm-port-funnel&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I will now begin work at converting my existing port modules to funnels. Those will be major version bumps, but will make them much easier to combine.&lt;/p&gt;
+
+&lt;p&gt;Thank you to Murphy Randall (&lt;a href=&#039;https://twitter.com/splodingsocks&#039;&gt;@splodingsocks&lt;/a&gt;) for the basic idea that I generalized to create this package.&lt;/p&gt;</description>
+ <pubDate>Sat, 08 Sep 2018 20:23:12 GMT</pubDate>
+</item>
+<item>
+ <title>Building the Elm compiler</title>
+ <link>http://lisplog.org/building_the_elm_compiler.html</link>
+ <description>&lt;p&gt;I learned how to build the Elm version 0.19 compiler, in an effort to get it to provide full backtraces of a bug I was tickling. I failed at getting the full backtraces, but I succeeded in adding some debugging output. Anyway, here&#039;s how to do it.&lt;/p&gt;
+
+&lt;p&gt;First, you need to install Haskell on your machine. You need version 8.2.2 for the Elm 0.19 compiler. &lt;a href=&#039;https://www.haskell.org/platform/prior.html&#039;&gt;www.haskell.org/platform/prior.html&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;Then do the following:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;pre&gt;$ git clone git@github.com:elm/compiler.git
+$ cd compiler
+$ cabal sandbox init
+$ cabal install&lt;/pre&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The Elm executable will be in &lt;code&gt;.cabal-sandbox/bin/elm&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;The first build takes a while, as it needs to download and build all the dependenies. After that, it gets faster. &lt;code&gt;cabal sandbox delete&lt;/code&gt; lets you start over.&lt;/p&gt;
+
+&lt;p&gt;After making changes to the source, run &lt;code&gt;cabal install&lt;/code&gt; again, and it will compile only the changed files and files that depend on them.&lt;/p&gt;
+
+&lt;p&gt;&lt;hr style=&#039;height:2px;border-width:0;background-color:gray&#039;&gt;&lt;/p&gt;
+
+&lt;p&gt;To build the entire Haskell stack, with stack backtraces enabled, from @mfeineis on the Elm Slack channel (I haven&#039;t tried this):&lt;/p&gt;
+
+&lt;p&gt;Init with stack:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;pre&gt;$ stack init --resolver lts-11.20&lt;/pre&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Add options in &lt;code&gt;elm.cabal&lt;/code&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;pre&gt;Executable elm
+    if flag(dev)
+        ghc-options: -O0 -Wall -Werror -rtsopts -eventlog
+&lt;/pre&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Build with stack:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;pre&gt;$ stack build --flag elm:dev --profile&lt;/pre&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Run with RTS options:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;pre&gt;$ elm make ./src/Main.elm \
+   --output=./dist/app.js +RTS -xc -lu -RTC \
+   2&gt;eventlog_readable.log&lt;/pre&gt;&lt;/blockquote&gt;
+
+</description>
+ <pubDate>Fri, 07 Sep 2018 07:01:51 GMT</pubDate>
+</item>
+<item>
+ <title>elm-websocket-client</title>
+ <link>http://lisplog.org/elmwebsocketclient.html</link>
+ <description>&lt;p&gt;Elm 0.19 shipped without an upgraded version of the &lt;code&gt;elm-lang/websocket&lt;/code&gt; package. Since I use WebSockets for my games, I badly miss it. So I wrote my own, &lt;code&gt;billstclair/elm-websocket-client&lt;/code&gt;. Since it uses ports to do the work that isn&#039;t in Elm itself, it needs a little more help from the user than Evan&#039;s package, but not that much.&lt;/p&gt;
+
+&lt;p&gt;Package: &lt;a href=&#039;https://package.elm-lang.org/packages/billstclair/elm-websocket-client/latest&#039;&gt;https://package.elm-lang.org/packages/billstclair/elm-websocket-client/latest&lt;/a&gt;&lt;br/&gt;
+Changelog: &lt;a href=&#039;https://github.com/billstclair/elm-websocket-client/blob/2.0.2/CHANGELOG.md&#039;&gt;https://github.com/billstclair/elm-websocket-client/blob/2.0.2/CHANGELOG.md&lt;/a&gt;&lt;/p&gt;</description>
+ <pubDate>Wed, 05 Sep 2018 02:49:40 GMT</pubDate>
+</item>
+<item>
+ <title>Server Updated to Ubuntu 16.04LTS</title>
+ <link>http://lisplog.org/server_updated_to_ubuntu_1604lts.html</link>
+ <description>&lt;p&gt;With the release of Ubuntu 18.04LTS, I have upgraded the server for this web site to Ubuntu 16.04LTS. I feel no need to follow the bleeding edge for a stable operating system, but 14.04 will only be supported for another year, so it was time to go to 16.04.&lt;/p&gt;</description>
+ <pubDate>Fri, 27 Apr 2018 12:51:49 GMT</pubDate>
+</item>
+<item>
+ <title>XKCD April Fools 2018</title>
+ <link>http://lisplog.org/xkcd_april_fools_2018.html</link>
+ <description>&lt;p&gt;There&#039;s an amazing XKCD for April Fool&#039;s Day 2018. Right-click for pop-up menus and a marvel in JavaScript.&lt;/p&gt;
+
+&lt;p style=&#039;margin-left: 2em;&#039;&gt; &lt;a href=&#039;https://xkcd.com/1975/&#039;&gt;https://xkcd.com/1975/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Archived at &lt;a href=&#039;http://lisplog.org/xkcd-right-click/&#039;&gt;lisplog.org/xkcd-right-click&lt;/a&gt;&lt;/p&gt;</description>
+ <pubDate>Mon, 02 Apr 2018 19:32:30 GMT</pubDate>
+</item>
+<item>
+ <title>JSMaze Returns, in Elm!</title>
+ <link>http://lisplog.org/jsmaze_returns_in_elm.html</link>
+ <description>&lt;p&gt;I mentioned &lt;a href=&#039;http://jsmaze.com/&#039;&gt;JSMaze.com&lt;/a&gt; in my last post. Here are some more details.&lt;/p&gt;
+
+&lt;p&gt;I wrote a little maze game in 2012, as my first introduction to Node.js, and put it up on an Amazon AWS machine at JSMaze.com. I took it down a few months back, to save the $18/month it was costing me. I decided to remake it, in Elm, and it&#039;s back up, running on one of my Digital Ocean VMs, for no additional cost, again at JSMaze.com. Link there to GitHub repository.&lt;/p&gt;
+
+&lt;p&gt;So far I have the basic 2D and perspective rendering working, with movement via keyboard or buttons. It works in a touch-screen browser, though the keyboard is a much nicer control interface.&lt;/p&gt;
+
+&lt;p&gt;Next I&#039;ll work on a maze editor and persistent storage for mazes. Then a server, with war mode and the nice spinning bullet animation I did before. Then I&#039;ll add chat and sound, and I&#039;ll be back where I was before, but with code that&#039;s much easier to understand and expand.&lt;/p&gt;
+
+&lt;p&gt;My plan then is to do what I had in mind for the original, but that was too painful in plain JavaScript, the ability to have lots of mazes running at once, invitations to private mazes, drawings and uploaded images on the walls.&lt;/p&gt;
+
+&lt;p&gt;I&#039;m having a blast!&lt;/p&gt;</description>
+ <pubDate>Thu, 29 Mar 2018 03:52:05 GMT</pubDate>
+</item>
+</channel>
+</rss>
