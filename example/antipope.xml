@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Charlie&apos;s Diary</title>
+    <link rel="alternate" type="text/html" href="http://www.antipope.org/charlie/blog-static/" />
+    <link rel="self" type="application/atom+xml" href="http://www.antipope.org/charlie/blog-static/atom.xml" />
+    <id>tag:www.antipope.org,2010-01-01:/charlie/blog-static//1</id>
+    <updated>2018-09-30T00:14:29Z</updated>
+    <subtitle>Being the blog of Charles Stross, author, and occasional guests ... </subtitle>
+    <generator uri="http://www.sixapart.com/movabletype/">Movable Type Pro 5.2</generator>
+
+<entry>
+    <title>The Labyrinth Index: sneak preview!</title>
+    <link rel="alternate" type="text/html" href="http://www.antipope.org/charlie/blog-static/2018/09/the-labyrinth-index-sneak-prev.html" />
+    <id>tag:www.antipope.org,2018:/charlie/blog-static//1.4123</id>
+
+    <published>2018-09-28T09:04:44Z</published>
+    <updated>2018-09-30T00:14:29Z</updated>
+
+    <summary>The folks at Tor.com have kindly posted the first chapter of The Labyrinth Index for your reading edification. Enjoy! (I hope.)...</summary>
+    <author>
+        <name>Charlie Stross</name>
+        <uri>http://www.antipope.org/mt/mt-cp.cgi?__mode=view&amp;blog_id=1&amp;id=2</uri>
+    </author>
+    
+    
+    <content type="html" xml:lang="en" xml:base="http://www.antipope.org/charlie/blog-static/">
+        <![CDATA[<p>The folks at Tor.com have kindly posted <a href="https://www.tor.com/2018/09/27/excerpts-the-labyrinth-index-laundry-files-charles-stross/">the first chapter of The Labyrinth Index</a> for your reading edification.</p>
+
+<p>Enjoy! (I hope.)</p>
+]]>
+        
+
+    </content>
+</entry>
+
+<entry>
+    <title>Do my Homework</title>
+    <link rel="alternate" type="text/html" href="http://www.antipope.org/charlie/blog-static/2018/09/do-my-homework.html" />
+    <id>tag:www.antipope.org,2018:/charlie/blog-static//1.4122</id>
+
+    <published>2018-09-22T09:32:45Z</published>
+    <updated>2018-09-30T01:18:56Z</updated>
+
+    <summary><![CDATA[So, anent nothing in particular, I was contemplating another of James Nicoll's essays on Tor.com the other day&mdash;this one concerning utopias in SF&mdash;and found myself trying to stare into my own cognitive blind spot. Like all fiction genres, SF is...]]></summary>
+    <author>
+        <name>Charlie Stross</name>
+        <uri>http://www.antipope.org/mt/mt-cp.cgi?__mode=view&amp;blog_id=1&amp;id=2</uri>
+    </author>
+    
+    
+    <content type="html" xml:lang="en" xml:base="http://www.antipope.org/charlie/blog-static/">
+        <![CDATA[<p>So, anent nothing in particular, I was contemplating another of James Nicoll's essays on Tor.com the other day&mdash;this one concerning utopias in SF&mdash;and found myself trying to stare into my own cognitive blind spot.</p>
+
+<p>Like all fiction genres, SF is prone to fashion trends. For example, since the late 1970s, psi powers as a trope have gone into steep decline (I'd attribute this to the death and subsequent waning influence of editor John W. Campbell, who in addition to being a bigoted right-winger was into any number of bizarre fringe beliefs). "Population time bomb"/overpopulation stories have also gone into decline, perhaps due to the gradual realization that thanks to <a href="https://en.wikipedia.org/wiki/Green_Revolution">the green revolution</a> and <a href="https://en.wikipedia.org/wiki/Demographic_transition">demographic transition</a> we aren't doomed as a direct consequence of overpopulation&mdash;climate change and collapsing agriculture are another matter, but we're already <em>far</em> past the point at which a collapse into cannibalism and barbarism was so gloatingly depicted in much 1960s and 1970s SF. And so are stories about our totalitarian Stalinist/Soviet overlords and their final triumph over the decadent free western world. These are all, if you like, examples of formerly-popular tropes which succumbed to, respectively, critiques of their <a href="https://en.wikipedia.org/wiki/Parapsychology">scientific plausibility</a> (psi powers), the intersection of unforeseen scientific breakthroughs with the reversal of an existing trend to mitigate a damaging outcome (food production revolution/population growth tapering off), and the inexorable historical dialectic (snark intentional).</p>
+
+<p>Oddly enough, tales of what the world will be like in the tantalizingly close future year 2000 AD are also thin on the ground these days. As are tales of the first man on the moon (it's always a man in those stories, although nobody in the 1950s thought to call the hero of a two-fisted space engineering story "Armstrong"), the big East/West Third World War (but hold the front page!), and a bunch of other obsolescent futures that were contingent on milestones we've already driven past.</p>
+
+<p>Some other technological marvels predicted in earlier SF have dropped out of fiction except as background scenery, for they're now the stuff of corporate press releases and funding rounds. Reusable space launchers? Check. (Elon Musk <em>really, really wants</em> to be the Man who Sold the Moon.) Space elevators/tether systems? Nobody would bother writing a novel like "The Fountains of Paradise" these days, they're too plonkingly <em>obvious</em>. It'd be like writing a novel about <a href="https://en.wikipedia.org/wiki/ITER">ITER</a>, as opposed to a novel where ITER is the setting. Pocket supercomputer/videophone gadgets in every teenager's pocket? No, that's just too whacky: nobody would believe it! And so on. (Add sarcasm tags to taste.)</p>
+
+<p>We <em>are</em> living through the golden age of grimdark dystopian futures, especially in Young Adult literature (and lest we forget, there's much truth to the old saying that "the golden age of SF is 12", even for those of us who write and read more adult themes). There's also a burgeoning wave of CliFi, fiction set in the aftermath of global climate change. We're now seeing Afrofuturism and other cultures taken into the mainstream of commercial SF, rather than being marginalized and systematically excluded: diversity is on the rise (and the <a href="https://en.wikipedia.org/wiki/Sad_Puppies">grumpy white men</a> don't like it).</p>
+
+<p>Which leads me to my question: <strong>what are the blind spots in current SF?</strong> The topics that nobody is writing about but that folks <em>should</em> be writing about? (Keep reading below the cut before you think about replying!)</p>
+]]>
+        <![CDATA[<p><strong>I can immediately think of four blind spots</strong>, right now (and this is without engaging my brain and trying to work out what topics I have, as a pale-skinned male of privilege, been trained to studiously ignore):</p>
+
+<ol start='1'>
+<li><p>In the 1950-1999 period, tales of the 21st century were <em>everywhere</em>. Where are the equivalent stories of the 22nd century, that should be being told today? (There are a few, but they are if anything prominent because of their scarcity.)</p></li>
+<li><p>The social systems based on late-stage currently-existing capitalism are hideously broken, but almost all the SF I see takes some variation on the current system as a given: in the future, apparently people will have these things called "jobs" whereby an "employer" (typically a <a href="http://www.antipope.org/charlie/blog-static/2018/01/dude-you-broke-the-future.html">Very Slow AI</a> controlled by a privileged caste of "executives") acquires an exclusive right to their labour in return for vouchers which may be exchanged for food, clothing, and shinies (these vouchers are apparently called "money"). Seriously folks, can't we imagine something <em>better</em>?</p></li>
+<li><p>What does a world look like in which the (very approximately) 2,500-10,000 year old reign of the patriarchy has been broken for good? The commodification of women and children that followed the development of settled agricultural societies with ruling/warrior castes to police and enforce laws casts a very long shadow, even in societies that notionally endorse gender equality in law. (Consider, for example, that a restricted diet stunts growth, and that average adult stature tracks food availability by a generation or three, and ask <em>why</em> men are, on average, taller than women; or why <a href="https://en.wikipedia.org/wiki/Rape_culture">rape culture</a> exists and where it came from: or where the impetus for #MeToo is coming from ...) Even if the arc of history indeed <em>does</em> bend towards justice, we're still a long way from finding it (whether it be for racism, sexism, or any other entrenched, long-standing historic injustice). Which in turn leads me to ...</p></li>
+<li><p>Blind justice: "the law in its majesty forbids the millionaire and the pauper alike from sleeping under bridges". Stable societies need norms of behaviour and some way of ensuring that most people comply with them, but our current approach to legal codes is broken. One size does not fit all (if the pauper and the millionaire both face a $50 fine for the same offense, then the law is a hideously onerous burden on one of them and trivially ignored by the other&mdash;yes, I know there are jurisdictions where fines are proportional to income, but they're the exception rather than the rule <em>and they rely on the concept of a fine as punishment</em>). Nor is it clear that punishment by incarceration or state violence achieves anything productive, or that our judicial systems produce anything that can reasonably be termed justice (in strict <a href="https://en.wikipedia.org/wiki/A_Theory_of_Justice">Rawlsian</a> terms). What does a future social contract look like? Hell, what does a <em>future legal system</em> look like? Malka Older ("Infomocracy") and Ada Palmer ("Too Like the Lightning") have been ploughing that field, with a side-order of trying to conceptualize what a new <a href="https://en.wikipedia.org/wiki/Age_of_Enlightenment">age of enlightenment</a> might look like, but again: being able to name them just highlights how <em>few</em> authors are exploring these vital issues in SF. Indeed, law enforcement is a huge blind spot for many Americans, as witness this think-piece in The Atlantic (<a href="https://www.theatlantic.com/science/archive/2018/09/mars-pd/569668/">How Mars Will be Policed</a>) which seems to assume that the current American quasi-military police caste is a universal constant.</p></li>
+</ol>
+
+<p>So: four themes (the world as it might be an entire human lifetime hence: what could replace the ideology of industrial-era capitalism: how would a world without entrenched hierarchies of race, privilege, and gender look: and what the future of law, justice, and society might be) are going under-represented in SF.</p>
+
+<p>And here is my subsequent question: <strong>what big themes am I (and everyone else) ignoring?</strong></p>
+
+<p>Do my homework, please. Comment thread provided below for your mutual entertainment.</p>
+]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Media Piracy and Unpronounceable Names</title>
+    <link rel="alternate" type="text/html" href="http://www.antipope.org/charlie/blog-static/2018/09/media-piracy-and-unpronounceab.html" />
+    <id>tag:www.antipope.org,2018:/charlie/blog-static//1.4121</id>
+
+    <published>2018-09-18T13:12:38Z</published>
+    <updated>2018-09-29T22:57:14Z</updated>
+
+    <summary>By now, if you&apos;re one of Charlie&apos;s readers, you&apos;ve probably absorbed the notion that security is a process. It&apos;s not easy to go from that to what it means in operant terms, but I lack sense so I&apos;m going to...</summary>
+    <author>
+        <name>Graydon</name>
+        <uri>http://www.antipope.org/mt/mt-cp.cgi?__mode=view&amp;blog_id=1&amp;id=5657</uri>
+    </author>
+    
+    
+    <content type="html" xml:lang="en" xml:base="http://www.antipope.org/charlie/blog-static/">
+        <![CDATA[<p>By now, if you're one of Charlie's readers, you've probably absorbed the notion that security is a process.  It's not easy to go from that to what it means in operant terms, but I lack sense so I'm going to try.</p>]]>
+        <![CDATA[<p>E-books get pirated automatically, inevitably, and with malicious intent.  (The usual malice is to use the purportedly free ebook as a malware vector.)  Thinking about what would have to be true in order to stop this is instructive; every ebook would have to have a unique identifier, you would have to have a unique identifier, and there would have to be some sort of central repository of transactions that kept records in perpetuity.  It wouldn't be restricted to media purchases, because then you have to define "media purchase" (as distinct from "turnips"), which is hard, and if you did, someone could claim to be selling turnips when they were really selling media and cheat the system.  So every transaction would have to be uniquely and permanently recorded.</p>
+
+<p>This is bad; this is a tool for finding every donor to your political opponents, either last election or thirty years ago, once you have enough power to inflict harm on them.  And once the list exists, it's indestructible; digital copying is cheap.  Anything on a computer stays there forever.  And because the computer is managed by human beings, adding or deleting transactions will be available for a suitable fee.</p>
+
+<p>Building a system like that to get rid of media piracy is <b>not</b> a net win.  In any way.  (Yes, this does relate to a current EU political issue, but let's try to keep this abstract.)</p>
+
+<p>Ashby's Law of Requisite Variety says you want to control a system, you have to provide matching variety for the variety of the system, constrain the variety of the system, or provide the control mechanism with a variety amplifier.  ("variety" = the number of possible states in a system.  Or maybe the amount of information in the system; dragging you into that increasingly fractal exploration of the meaning of meaning is not where I'm going with this.)</p>
+
+<p>The implication, all-too-often missed, is that the variety amplifier is <b>also</b> a system.  Which means you want it to be painfully simple, lest you find yourself stacking control systems on control systems into a tottery edifice of fail.  Only it has to control something complicated.</p>
+
+<p>This is where a basic principle comes in, for producing systems that work.  Do not make simple things complicated, and do not make complicated things simple.</p>
+
+<p>The single quickest way to make simple things complicated is to lump them together.  The venerable Unix philosophy of building applications that do one thing, well, has a sound basis in systems theory.  You still have to pick which applications you need but the effort involved in making the individual applications work is much easier.</p>
+
+<p>So when it comes to transactional security, well.  What are we really trying to do?</p>
+
+<p>We want a system where you don't need to identify yourself to pay for something. (That gets us that global transaction database and all the nasty problems it creates.)</p>
+
+<p>Inevitably, you <b>do</b> need to identify yourself if you want to dispute what you were sold.  ("Ordered 12-axis milling machine.  Paid for 12-axis milling machine.  Received 12 gross Old People Hats in diverse colours.  Do not want.")</p>
+
+<p>Ah!  So everybody needs some sort of cryptographic true name for transactional purposes.</p>
+
+<p>No.  Really, seriously, emphaticaly no, becuase any such thing creates that original global transaction database problem.  We really don't want that.  (We may have to torch a few credit rating agencies to prevent it, because those entities do want it; the extent to which they've achieved it gives them a great deal of money and power.)  This would be even worse than the current practice of using your birthday as an identity token.</p>
+
+<p>There's a rule about authenticating transactions and there's a rule about true names.</p>
+
+<p>The true name rule is that you never, ever want it to be legible.  (Not even to you!) You want to be the Wizard Iff of the Unpronouncable Name, with a true name that is impossible to know.</p>
+
+<p>The transaction rule is that all transactions should be push transactions.  You send an event.  You don't establish any kind of waiting connection or do anything reversible or require both sides to reconcile a transaction history.</p>
+
+<p>Credit cards do not do this; credit cards are a design that assumes humans, terrible communications, and an entire abscence of malice.</p>
+
+<p>If you're buying something, there are in principle at least five parties.</p>
+
+<p>There's the purchasing entity, there's the financial entity used by the purchaser, there's the controlling entity, there's the selling entity, and the selling entity's financial entity.</p>
+
+<p>Even if you buy something with cash at the corner store; there's a government backing that cash.  The controlling entity is any government involved for things like customs tarriffs or taxation. (VAT, HST, sales tax, etc.)  There can easily be more than one.</p>
+
+<p>Who needs to do what?</p>
+
+<p>You, the purchasing entity, need to know how much you spent; you need to be able to prove you paid for a specific bill of goods to both the seller and at least one controlling entity.  You need to be able to prove what the delivery requirement you contracted for was as a component of the transaction.  You want to be able to do this without access to the seller's databases and without leaving information about yourself with the seller.</p>
+
+<p>The selling entity needs to know how much it recieved and to associate that with a specific bill of goods and a delivery requirement. ("Someone sent us €116.83; why?" It's important to be able to answer this question.)  The selling entity also needs to be able to prove recipts to at least one controlling entity.</p>
+
+<p>The controlling entity needs to know what was sold (Maybe "clothing" is a different tariff category than "floatation device", but you wear a flotation device, so there's ambiguity), for how much, and between who.  There has to be a capacity for a tax audit. (Sometimes the purchaser is BAE Systems!)  (There often literally isn't that capacity for audit, these days.  Too much volume, insufficient support for automation.)</p>
+
+<p>Pretty much everyone involved has an interest in being able to prove that "this is a real transaction identifier" without knowing anything about the transaction.  (Innovative cryptographers are not common because the problems are hard!)</p>
+
+<p>Now, I think this stuff is fascinating, but getting into <i>how</i> rather than <i>what</i> is entirely inappropriate here.</p>
+
+<p>So let's look at what a credit card purchase by a private individual looks like in a system that follows both rules: everything is a push; no one knows your true name.</p>
+
+<p>You bring your collection of items that you've picked from the presented inventory to a checkout location.  That might be a physical store; it might be an online store.</p>
+
+<p>You push a goods request to the merchant. You are <b>not</b> creating a "we started talking about something" identifier; if you bind all of these steps together like that, you're created that global transaction database because things stop being events and start being tendencies.  You want to look doubtfully and carefully at any perceived necessity to associate each step with the previous step, and at a requirement no one entity has all the steps. (There will need to be laws to keep it that way.)</p>
+
+<p>The goods request you pushed includes some means of contacting you. (SMS, email, NFC phone crypto module, but under no circumstances a physical electronic token.  Physical token security is six separate nightmares with progressively longer teeth.)  This contact address can be, and should be, unique to this goods request.  ("100 disposable SMS addresses for purchases" is just the sort of thing your mobile service provider wants to sell you.)</p>
+
+<p>The checkout location has some means (cashier, scanning device, website commerical automation...) to generate a quote from your goods request, and it pushes the quote to your contact address.  The quote comes with a payment target.  The payment target is (likely) crypto-gable that your device can authenticate as the correct <i>kind</i> of crypto gable, but not actually decode.  The payment target includes the payment amount generated with the quote.</p>
+
+<p>You push the plain-text amount and the payment target to your financial institution's "pay this" mechanism.  If you flubbed the plain-text amount, the cross-check doesn't complete the payment; it pushes an error message to you.  The financial institution <b>does</b> know how to read the payment target crypto-gabble and pushes the money to the receiving location in the payment target you got with the quote.  (You never know what that was.)</p>
+
+<p>When the receiver institution gets the money, they push the quote identifier and "payment completed" to the merchant.  The merchant knows <i>nothing</i> about what you did to pay; in principle, you might have weighed out rhenium powder in front of a grave and dignified older person whose financial institution then generated the transaction to the merchant's.</p>
+
+<p>Your purchase is released or shipped.  Ideally, the destination is handled the same way as the payment target; the merchant gets it as crypto gabble they can authenticate as the correct sort of crypto-gabble, but not outright read.  They use their shipping service to get a quote back to know how much to charge you for shipping, and bundle that with the quote they sent you for the goods.</p>
+
+<p>That's way less convenient than what happens now, becuase you have to respond three times; you have to push the goods request, the payment, and the destination as distinct events with different intermediaries.  Why would you want to do that instead of the usual looks-like-five-steps "give us all the information and commit" -- what you want to buy, who you are, your payment details, where to send it, are you sure? -- that's generally used now?</p>
+
+<p>Because you don't have to put any of your actual details out there.   The merchant never knows who you bank with; they just know they sent a quote, and the quote got paid.  The merchant never needs to use your home address as part of the authentication process for your credit card and their database never holds your credit card number.  You never <b>have</b> a credit card number because all payment orders are one-time.  Even with your bank, you didn't tell them your true name; you followed a push-only processes with the bank, at least two tokens you've got, and the (public!) name repository to generate a specific persistent identity <i>distinct from your true name</i> with the bank.  (You might want to consider a rule that no individual ever knows what a majority of the tokens involved in any name-referencing transaction are.)</p>
+
+<p>If you need to dispute your goods received or dispute a charge, things get tricky; someone has to be able to unwrap multiple steps of the transaction.  The pieces are all there, but often the pieces will be in different national jurisdictions.  There probably ought to be a court system for this, so no commercial entity ever has the ability to open a majority of the individual push events in a complete transaction.</p>
+
+<p>How to do this -- sensibly, publicly, without relying on secrecy in the algorithms and with tolerable convenience -- isn't easy.  It won't fix book piracy, either.</p>
+
+<p>But it would help a lot of other things.</p>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>&quot;I doubt me an it be commercial.&quot;</title>
+    <link rel="alternate" type="text/html" href="http://www.antipope.org/charlie/blog-static/2018/09/i-doubt-me-an-it-be-commercial.html" />
+    <id>tag:www.antipope.org,2018:/charlie/blog-static//1.4120</id>
+
+    <published>2018-09-07T14:54:16Z</published>
+    <updated>2018-09-27T16:50:12Z</updated>
+
+    <summary>Most of the pitches for self-publishing as an activity are about how you can make money. If you want to make money, you need to publish rapidly and you need to have a consistent brand in terms of what the...</summary>
+    <author>
+        <name>Graydon</name>
+        <uri>http://www.antipope.org/mt/mt-cp.cgi?__mode=view&amp;blog_id=1&amp;id=5657</uri>
+    </author>
+    
+    
+    <content type="html" xml:lang="en" xml:base="http://www.antipope.org/charlie/blog-static/">
+        <![CDATA[<p>Most of the pitches for self-publishing as an activity are about how you can make money.</p>
+
+<p>If you want to make money, you need to publish rapidly and you need to have a consistent brand in terms of what the writing is like, what kind of reading effort is involved, and where it gets the reader in the feels.  All of these things create the engaged fan base that results in sales volume, and you absolutely need sales volume if you're trying to make money.</p>
+
+<p>Oh, and you need to publicize, which its own set of skills.</p>
+
+<p>My publicist skills are plausibly negative.  I write slowly; the books are different; readers report feels variously, and after five books, total sales via all channels is under two thousand copies.  If I've got commercial objectives, they're failing miserably; not quite "died in a pit of desultory rat-gnawing", but certainly somewhere around "succumbed to exposure after the seventh hour of hard cold rain".</p>
+
+<p>So why am I doing this?</p>
+
+<p>"Commercial" means "a sufficient audience to support the writer and the production effort".  My suspicion is that just as being able to make lots of money off of recorded music was a temporary aberration brought on by a particular tech level, so was being able to make money off of writing novels.  That period hasn't quite expired, but it's gone from "skill and persistence and some luck" as the career criteria--this is the activity as keeps you fed and housed, career--to "skill and persistence are necessary, but not sufficient".  You can't plan on a career doing it, even if it's something at which you are skilled.</p>
+
+<p>Story was mostly a performance, for most of history.  Written story was something a professional writer--meaning <i>scribe</i>--did in their spare time.  I don't want to say <i>hobby</i> but it wasn't what kept you fed or housed.  Novel-scale story is going back to being a kind of performance with the increasing market share of audio books; a distinct market, for which the written text version of the novel is not regarded as substitutable.  Rather like how any camera that isn't a phone camera is niche, the written novel is an increasingly niche form of story.</p>
+
+<p>That's the gloomy view; we had this thing, and now it's gone.  But maybe you will get very lucky, if only you buy a ticket.  (It's not a cheap ticket.)</p>
+
+<p>I think there's a cheerful view.</p>
+
+<p>If you're trying to make a commercial success of writing, the commercial objective is a constraint.  Success requires consistent novelty, modest demands on attention, and, above all, appropriate emotional responses.</p>
+
+<p>It becomes a kind of iron triangle; a narrative can produce novelty, immersion, and feels but only in a relatively small portion of the possible space. (At least for any specific reader.  Lots of choice encourages particularity.)  Get too far toward the novelty, immersion, or feels points of the triangle and you don't so much risk breaking the story as you make reading too much work for the story to have commercially sufficient numbers of friends.  ("If you believe it is a work of genius, then you may lose a thousand pounds."  There have been periods of time and publishing firms for whom "commercially sufficient" was flexible; such a publishing house might undertake a book perceived to be worthy even if it wasn't expected to sell sufficiently well.)</p>
+
+<p>If you don't have those commerical constraints, there are things you can do that aren't otherwise possible.  You're not going to make a living at it, and your share of the (growing!) market will be even smaller than it would otherwise be (the market is not growing as fast as the number of people entering it), but maybe you can have more fun.</p>
+
+<p>If you can approach the text with an expectation that whomsoever shall read it knows they have to read all the words, you can get a degree of immersion not otherwise achievable because you get to use all of the finite number of words to contribute to the setting, rather than losing lots of them to narrative redundancy.  You only get so many words; most words can't do two jobs. Ease-of-reading redundancy uses up the utility of a large proportion of the available words.</p>
+
+<p>But if you can move toward the immersion point of the triangle; if there's the assumption the reader is going to read all the words and expect all the words to mean something and that there isn't any more redundancy than you find in life and that the viewpoint is never going to tell you anything because you're the reader, you can get places not otherwise reachable.  (C.J. Cherryh is a master of this; <i>Cyteen</i> is not an easy book to read, however much the consensus has come down on "repays the effort".)</p>
+
+<p>Similarily, you can go for novelty (classic Niven or Clement!  This isn't a story, this is a travelogue of weirdnesses cut with physics explainers!) or feels (Pamela Dean's <i>Tam Lin</i> or <i>The Dubious Hills</i>).  There are lots of other examples, and yes, the scope of commercial does move over time.</p>
+
+<p>Is it worth it?  Commercially, now, when there's so much available so easily that no one is going to feel compelled to finish anything because it happens to be the one book they're going to be able to find this month?  No.  Not even a little.  The tech change means more genres, with narrower scope per genre.  So for commercial, that's the end of it.  If you're not so supremely gifted or so supremely fortunate that you can invent a genre (Pratchett!) your text, that story, this approach to narrative, aren't any of them getting to perform the experiment to enumerate their friends.  Not by a commercial publication channel.</p>
+
+<p>Not by any commercial means.  But today, because self-publishing ebooks is technically trivial, they can.</p>
+
+<p>I think that's a net win from the reader side.  I think it's a net win from my side.  I hope it's a net win for a lot of writers.  (And that I'm not wrong about the readers!)</p>
+
+<p>I think there's the example of Romantic poet and engraver William Blake, who produced an unusual body of work; never a commercial success, never widely known, difficult, and not permeating popular culture (Anyone know who Rintrah is?).  Blake's body of work has still found enough friends to persist this long while.</p>
+
+<p>Fame isn't worth much; "You'll be famous when you're dead" is worth nothing whatsoever.  Word-fame does die, however well you achieve it.  But what you don't publish, no-one reads.</p>
+
+<p>So what have you read that you're glad of, published for no plausible commercial reason though it was?</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Upcoming Appearances</title>
+    <link rel="alternate" type="text/html" href="http://www.antipope.org/charlie/blog-static/2018/09/upcoming-appearances-3.html" />
+    <id>tag:www.antipope.org,2018:/charlie/blog-static//1.4119</id>
+
+    <published>2018-09-04T09:24:56Z</published>
+    <updated>2018-09-28T15:42:17Z</updated>
+
+    <summary><![CDATA[Charlie here (back again, briefly), with news on two upcoming appearances. Firstly, I'm in Berlin next Monday (September 10th) (that's the capital of Germany, not the small town in New Hampshire&mdash;or the one in Maryland): I'm doing a reading and...]]></summary>
+    <author>
+        <name>Charlie Stross</name>
+        <uri>http://www.antipope.org/mt/mt-cp.cgi?__mode=view&amp;blog_id=1&amp;id=2</uri>
+    </author>
+    
+    
+    <content type="html" xml:lang="en" xml:base="http://www.antipope.org/charlie/blog-static/">
+        <![CDATA[<p>Charlie here (back again, briefly), with news on two upcoming appearances.</p>
+
+<p>Firstly, I'm in <strong>Berlin</strong> next Monday (September 10th) (that's the capital of Germany, not the small town in New Hampshire&mdash;or the one in Maryland): I'm doing a reading and Q&amp;A (and signing, of course) at <a href="https://www.facebook.com/Otherland.Bookshop.Berlin/">Otherlands Bookshop Berlin</a>, Bergmannstraße 25 (U7-Bahnhof Gneisenaustraße), 10965 Berlin, from 8-10pm. And afterwards I'm moving on for drinks at the Dolden Mädel Braugasthaus, Mehringdamm 80, 10965. (I am informed there's a <a href="https://www.facebook.com/events/1552295978249746/">Facebook event</a> for this: if you plan to turn up, please sign in so we can give the bar some idea of how many people to expect.)</p>
+
+<p>Secondly: this October, I'll be in Vancouver as one of the author guests of honour atthe <a href="https://vcon.ca">VCON 42</a> SF convention, from the 5th to the 7th; memberships are still available if you go to SF conventions and are in the Pacific north-west. (Unfortunately I can't make it to CanCon in Ottawa the following weekend&mdash;the time line doesn't link up&mdash;but hopefully I'll be able to fit in a bookstore event or pub meet-up in Toronto or Ottawa before I go home, later in the month. Watch this blog entry for updates.</p>
+]]>
+        
+
+    </content>
+</entry>
+
+<entry>
+    <title>Taxonomy of story, or, why murder?</title>
+    <link rel="alternate" type="text/html" href="http://www.antipope.org/charlie/blog-static/2018/08/taxonomy-of-story-or-why-murde.html" />
+    <id>tag:www.antipope.org,2018:/charlie/blog-static//1.4118</id>
+
+    <published>2018-08-29T23:21:20Z</published>
+    <updated>2018-09-29T21:34:25Z</updated>
+
+    <summary><![CDATA[Charlie having been kind enough to hand me some blog keys, I get to talk about, not writing, since I may not know anything about writing, but about what kinds of things get written about. So, this book&mdash;why's it got...]]></summary>
+    <author>
+        <name>Graydon</name>
+        <uri>http://www.antipope.org/mt/mt-cp.cgi?__mode=view&amp;blog_id=1&amp;id=5657</uri>
+    </author>
+    
+    
+    <content type="html" xml:lang="en" xml:base="http://www.antipope.org/charlie/blog-static/">
+        <![CDATA[<p>Charlie having been kind enough to hand me some blog keys, I get to talk about, not writing, since I may not know anything about writing, but about what kinds of things get written about.</p>
+<p>So, this book&mdash;why's it got to be about a murder?</p>
+<p>Yeah, I know, mysteries aren't everything, and sometimes the murder even in those is purely ancillary (Sayers' <i>Gaudy Night</i> has a murder, but the murder is in no way what the book is about), but <em>story</em> is pretty closely "Who do we have to kill to fix this problem and restore the natural order?"  Then there's tension about whether or not it's going to happen, or happen in time, or what the cost will be.  (Yes, there's variation; sometimes order doesn't get restored, sometimes it isn't what the viewpoint thinks it is, sometimes the murder is going on over there and we get people coping with the side effects, sometimes we get the main problem being keeping the corpse-pile to the smallest possible size, but the core of story, the presumptive bounds of narrative, are narrow.</p>
+<p>Even in romance, which one might expect to have very little to do with murder, you've got a lot of tropes of conquest and surrender and whole ramifying sub-genres (paranormal romance) where the specific popularity might have something to do with the introduction of overt murder.</p>
+<p>It's almost as though the only legitimate story is about conquest.</p>
+<p>Now, I'm pretty sure this is an anglosphere genres thing, but in English it's pervasive.  <em>Man versus nature</em>, <em>man versus man</em>, <em>man versus self</em> is much more about the <strong>versus</strong> than the participants.  Why are&mdash;from various viewpoints and removes and angles of the light&mdash;the only real stories about conquest?  There's a fight, which someone must win?</p>
+<p>At this point someone might be inclined to point out that the first book I published was a military fantasy with an uncertain but not insignificant body count.  And it was; I wanted to write the contrapositive of a Black Company novel.</p>
+<p>Glen Cook&mdash;an underrated prose stylist&mdash;has a series about the Black Company, a group of mercenaries who are terrible people with no homes to return to and operating in a world where they wind up serving various dark lords running authoritarian polities.  (The dark lords are mighty sorcerers.)  So what happens if you try to write about a bunch of basically decent part-timers serving an egalitarian nation where sorcerers are forbidden political power?  Where the political and social norms are against any form of conquest?</p>
+<p>In my case, you get <a href="https://play.google.com/store/books/details/Graydon_Saunders_The_March_North?id=MoIOAwAAQBAJ" target="_blank" title="The March North">The March North</a>; I also got the Commonweal. (And the idea of co-operative magical focuses, and Halt, wandered in from out of the dark.)</p>
+<p>Once I had the Commonweal, well, sorcerers are forbidden political power.  How do you arrange that while sticking to egalitarian principles and some materialist concept of abstract justice?  What do you do when luck provides you with someone who will, permitted to grow into their power, become mighty indeed?  How much do you trust your institutions and your mechanisms of government?  How well can you avoid committing conquest out of fear?</p>
+<p>That's <a href="https://play.google.com/store/books/details/Graydon_Saunders_A_Succession_of_Bad_Days?id=tYyxCQAAQBAJ" target="_blank" title="A Succession of Bad Days">A Succession of Bad Days</a>; not so much sorcery school as an adult-learner educational cooperative for the unexpectedly talented, and a book frequently accused of being completely plotless.  I think that's because there's no murder, and the lack of murder means there's a number of readers for whom it can't be a story.  (Other readers report it a much-re-read comfort book.  Tastes vary.)</p>
+<p><a href="https://play.google.com/store/books/details/Graydon_Saunders_Safely_You_Deliver?id=Oju2CwAAQBAJ" target="_blank" title="Safely You Deliver">Safely You Deliver</a> is what happens when I try to write a love story in the style of Pamela Dean; there's some incidental murder in that one, but it really is mostly about Zora (who is in that adult-learner educational cooperative) and a unicorn, who is from the Bad Old Days outside the Commonweal and finds the whole place strange indeed.</p>
+<p>And then there's the just-released <a href="https://play.google.com/store/books/details/Graydon_Saunders_Under_One_Banner?id=qyxqDwAAQBAJ" target="_blank" title="Under One Banner">Under One Banner</a> where you get someone from a traditional background in the Commonweal starting to wonder if the Commonweal has persisted because the neighboring autocracies are generally incompetent at conquest and that perhaps this matters.  Perhaps the Commonweal should be planning for competent opposition.</p>
+<p>So, no, not entirely free from murder, but I hope free from the motivations of conquest.  The point is the increase of knowledge and the breadth of prosperity, not getting anyone or anything to submit. And maybe, I hope, nudging toward a wider idea of story than some narrative of conquest.</p>
+<p>The bit about why self-publishing means you can write what you want, and how sometimes those books find enough friends to seem worth writing but not to be worth the effort from a commercial publisher, and how this is generally a good thing for those as read fiction for enjoyment, and certainly a good thing for those of us who want to write decidedly non-commercial fiction, maybe that's the next post.</p>
+]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Dread of Heinleinism</title>
+    <link rel="alternate" type="text/html" href="http://www.antipope.org/charlie/blog-static/2018/08/dread-of-heinleinism.html" />
+    <id>tag:www.antipope.org,2018:/charlie/blog-static//1.4116</id>
+
+    <published>2018-08-27T10:28:25Z</published>
+    <updated>2018-09-26T13:39:31Z</updated>
+
+    <summary>Anent nothing: over on his other blog, noted SF critic James Nicoll asked, &quot;I wonder if there&apos;s an essay on why discovering a writer of a certain age is setting out to write a Heinlein-style book fills me with dread.&quot;...</summary>
+    <author>
+        <name>Charlie Stross</name>
+        <uri>http://www.antipope.org/mt/mt-cp.cgi?__mode=view&amp;blog_id=1&amp;id=2</uri>
+    </author>
+    
+    
+    <content type="html" xml:lang="en" xml:base="http://www.antipope.org/charlie/blog-static/">
+        <![CDATA[<p>Anent nothing: over on his other blog, noted SF critic James Nicoll asked, "I wonder if there's an essay on why discovering a writer of a certain age is setting out to write a Heinlein-style book fills me with dread."</p>
+
+<p>What follows is my attempt at answering his question. If you're unfamiliar with (or uninterested in) the bizarre hold the literary legacy of Robert A. Heinlein holds on the imagination of more recent SF writers, you can safely skip this blog entry.</p>
+]]>
+        <![CDATA[<p><a href="http://www.sf-encyclopedia.com/entry/heinlein_robert_a">RAH</a> was, for better or worse, one of the dominant figures of American SF between roughly 1945 and 1990 (he died in 1988 but the publishing pipeline drips very slowly). During his extended career (he first began publishing short fiction in the mid-1930s) he moved through a number of distinct phases. One that's particularly notable is the period from 1946 onwards when, with Scribners, he began publishing what today would be categorized as middle-grade SF novels (but were then more specifically boys adventure stories or childrens fiction): books such as <em>Rocket Ship Galileo</em>, <em>Space Cadet</em>, <em>Red Planet,</em> and <em>Have Space Suit, Will Travel</em>. There were in all roughly a dozen of these books published from 1947 to 1958, and as critic John Clute notes, they included some of the very best juvenile SF ever written (certainly at that point), and were free of many of the flaws that affected Heinlein's later works&mdash;they maintained a strong narrative drive, were relatively free from his tendency to lecture the reader (which could become overwhelming in his later adult novels), and were well-strutured as stories.</p>
+
+<p>But most importantly, these were the go-to reading matter for the baby boom generation, kids born from 1945 onwards. It used to be said, somewhat snidely, that "the golden age of SF is 12"; if you were an American born in 1945 you'd have turned 12 in 1957, just in time to read <em>Time for the Stars</em> or <em>Citizen of the Galaxy</em>. And you might well have begun publishing your own SF novels in the mid-1970s&mdash;if your name was Spider Robinson, or John Varley, or Gregory Benford, for example.</p>
+
+<p>Then a disturbing pattern begins to show up. </p>
+
+<p>The pattern: a white male author, born in the Boomer generation (1945-1964), with some or all of the P7 traits (Pale Patriarchal Protestant Plutocratic Penis-People of Power) returns to the reading of their childhood and decides that what the Youth of Today need is more of the same. Only Famous Dead Guy is Dead and no longer around to write more of the good stuff. Whereupon they endeavour to copy Famous Dead Guy's methods but pay rather less attention to Famous Dead Guy's twisty mind-set. The result (and the cause of James's sinking feeling) is frequently an unironic pastiche that propagandizes an inherently conservative perception of Heinlein's value-set.</p>
+
+<p>Sometimes this is a side-effect of the process. Spider Robinson, for example (born 1948) wrote <em>Variable Star</em> (published 2006) on the basis of an 8-page outline found in Heinlein's papers. (The result is a dutifully executed late-1940s Heinlein juvenile, designed to captivate 1940s boy scouts, published just in time for the Nintendo generation.) Sometimes it's deliberate: Greg Benford's <em>Jupiter Project</em> or John M. Ford's <em>Growing Up Weightless</em> are tales about teen-agers growing up in space colonies. And sometimes there's a sneaky dialog at work with Heinlein's own work&mdash;as many critics have noted (in particular <a href="https://www.amazon.com/What-Makes-This-Book-Great-ebook/dp/B00FO79RV2/">Jo Walton</a>) the state of contemporary SF exists in furious dialog with (and commentary upon) its own antecedents, and one prime example might be John Varley's <em>Steel Beach</em> (shortlisted for the Hugo, Locus, and Prometheus awards in 1993). (While the setting of <em>Steel Beach</em> is utterly non-Heinleinian, there's a very specifically Heinleinian sensibility to the meta-narrative, to the way the author's viewpoint illuminates the events of the story&mdash;and there's a specific hat-tip to Heinlein buried in the second half of the book that makes it explicit.) (Mind you, <em>Steel Beach</em> is anything <em>but</em> a Heinlein juvenile, as becomes clear from the very first line: "In five years, the penis will be obsolete," said the salesman.)</p>
+
+<p>But here's the thing: as often as not, when you pick up a Heinlein tribute novel by a male boomer author, you're getting a classic example of the second artist effect.</p>
+
+<p>Heinlein, when he wasn't cranking out 50K word short tie-in novels for the Boy Scouts of America, was actually trying to write about topics for which he (as a straight white male Californian who grew up from 1907-1930) had no developed vocabulary because such things simply weren't talked about in Polite Society. Unlike most of his peers, he at least tried to look outside the box he grew up in. (A naturist and member of the Free Love movement in the 1920s, he hung out with Thelemites back when they were beyond the pale, and was considered too politically subversive to be called up for active duty in the US Navy during WW2.) But when he tried to look too far outside his zone of enculturation, Heinlein often got things horribly wrong. Writing before second-wave feminism (never mind third- or fourth-), he ended up producing <em>Podkayne of Mars</em>. Trying to examine the systemic racism of mid-20th century US society without being plugged into the internal dialog of the civil rights movement resulted in the execrable  <em>Farnham's Freehold</em>. But at least he was trying to engage, unlike many of his contemporaries (the cohort of authors fostered by John W. Campbell, SF editor extraordinaire and all-around horrible bigot). And sometimes he nailed his targets: "The Moon is a Harsh Mistress" as an attack on colonialism, for example (alas, it has mostly been claimed by the libertarian right), "Starship Troopers" with its slyly embedded messages that racial integration is the future and women are allowed to be starship captains (think how subversive this was in the mid-to-late 1950s when he was writing it).</p>
+
+<p>In contrast, Heinlein's boomer fans rarely seemed to notice that Heinlein was all about the inadmissible thought experiment, so their homages frequently came out as flat whitebread 1950s adventure yarns with blunt edges and not even the remotest whiff of edgy introspection, of consideration of the possibility that in the future things might be <em>different</em> (even if Heinlein's version of diversity ultimately faltered and fell short).</p>
+
+<p>There are exceptions. Post-boomer cultural appropriation of Heinleinian tropes sometimes results in different outcomes. 1969-vintage John Scalzi is still a straight white male American, but at least he grew up after Martin Luther King, after Stonewall, after Vietnam. His Heinlein tributes aren't challenging, but neither are they reactionary: rather, they're positioned as gateway drugs intended to make reading <em>fun</em> for teenagers. And you can see some of the barest hints of the Heinleinian SF story skeleton in the most unexpected places, once you look for it: <a href="https://www.goodreads.com/book/show/25667918-binti">Nnedi Okorafor's Binti</a>, winner of the 2016 Hugo and Nebula awards for best novella, is <em>structurally</em> absolutely of a kind with Heinlein's 1950s juveniles and pushes many of the same buttons, even though the society depicted in it would have been beyond Heinlein's wildest imagining (being about as far from white Calfornian male reality as you can get while still writing in the same language).</p>
+
+<p>As for me, I will plead guilty to having committed Heinlein tribute-ism ... but with malice aforethought. I'm of mid-1960s vintage, on the cusp of Generation X: while Heinlein's juveniles were on the library shelves while I was growing up, so were <em>Dangerous Visions</em>, and his scouts-in-space sensibility felt curiously stale and airless to me. Which is why I wrote <a href="http://www.antipope.org/charlie/blog-static/2013/07/crib-sheet-saturns-children.html">Saturn's Children</a> as a <em>late</em> period Heinlein tribute, a story in dialogue with <em>Friday</em>. I ended up making it made it all about a diseased society and an abuse victim, and not remotely school library safe. Because the only way to win some games is not to play.</p>
+]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Sitrep</title>
+    <link rel="alternate" type="text/html" href="http://www.antipope.org/charlie/blog-static/2018/08/sitrep-6.html" />
+    <id>tag:www.antipope.org,2018:/charlie/blog-static//1.4115</id>
+
+    <published>2018-08-09T09:24:29Z</published>
+    <updated>2018-09-24T09:00:58Z</updated>
+
+    <summary><![CDATA[ Today marks the publication of Dark State in paperback in the USA! And a price drop for the paperback in the UK&mdash;the UK first edition was a large format trade paperback, not a hardcover; this is the smaller "mass...]]></summary>
+    <author>
+        <name>Charlie Stross</name>
+        <uri>http://www.antipope.org/mt/mt-cp.cgi?__mode=view&amp;blog_id=1&amp;id=2</uri>
+    </author>
+    
+    
+    <content type="html" xml:lang="en" xml:base="http://www.antipope.org/charlie/blog-static/">
+        <![CDATA[<p><img src="https://www.antipope.org/charlie/pix/EG/dark_state-600w.jpg" alt="Dark State" title="" /></p>
+
+<p>Today marks the publication of <a href="https://www.amazon.com/State-Empire-Charles-Stross-author/dp/1447247582/">Dark State</a> in paperback in the USA! And <a href="https://www.amazon.co.uk/State-Empire-Games-Charles-Stross/dp/1447247582/">a price drop for the paperback in the UK</a>&mdash;the UK first edition was a large format trade paperback, not a hardcover; this is the smaller "mass market" printing. (The ebook should also be getting a little cheaper by and by, but no new pricing has propagated yet.)</p>
+
+<p>I've been quiet lately because we're going through a heat wave right now in the UK, and I'm a Discworld troll: if the temperature goes over 20 celsius in my un-air-conditioned office my brain melts. Also, I'm trying to take a sabbatical: I've been pushing out words faster than my natural long-term rate for a few years, and I don't generally take non-working holidays, and after a bit it all gets to be too much, with added close family medical woes on top. So, having turned in the manuscript of INVISIBLE SUN (which will be out next year, albeit no earlier than July and possibly as late as October) I'm giving myself license to do <em>absolutely no scheduled work</em> for six months, and see how it goes. And this is how it's going.</p>
+]]>
+        <![CDATA[<p>So far, it looks like my muse went on a month-long absinthe-guzzling bender and did too many 'shrooms. Not <em>having</em> to hit deadline quotas is good, but my subconscious keeps barfing up story notes, like: </p>
+
+<blockquote>
+  <p>Magical Girls often get their power as a gift from a goddess. Now imagine the goddess in question just happened to be Itzpapalotl. What sort of superpowers would Magical Girl Obsidian Heartbleed have ...?</p>
+</blockquote>
+
+<p>(Over in The Other Blog We Do Not Speak Of there's even a running thread of regrettable supervillain ideas.)</p>
+
+<p>Looking forward ... </p>
+
+<p>"The Labyrinth Index" is in production and should be in shops and ebook stores by October 30th. "Invisible Sun" is with the editors, delayed, but will come out in 2019.</p>
+
+<p>"Ghost Engine", the space opera, is my only project beyond that point that has a contractual delivery date: Orbit have bought it for the UK market and I need to deliver it in summer 2019. I wrote a complete first draft in 2017, but was forced to pause halfway through the redraft by my father's terminal illness. But it's a known quantity: I know what it's about, there's about 150,000 words of existing novel (albeit not in a publishable-as-is state), and it's going to happen. (There's no US publisher as yet because my agent and I haven't shopped it around because it isn't finished: don't worry, it's on the to-do list.)</p>
+
+<p>So I'm now looking at what to do after "Ghost Engine". (<em>Note: in case it isn't obvious, <strong>all prognostications are provisional</strong>: nothing is definite!</em>)</p>
+
+<p>First, the big news: I have spent the past 20 years juggling two vast long-term projects&mdash;the Merchant Princes and the Laundry Files. I'm now hitting my mid-fifties, and both these projects have on the order of a million words of continuity to keep track of and it's just <em>too damned much</em>. </p>
+
+<p>Every story needs a beginning, a middle, and an end. So I'm beginning to work my way towards finding a satisfying end point for both those series, albeit one that doesn't preclude further work in either universe. </p>
+
+<p>In the case of the Merchant Princes/Empire Games, that's relatively easy: "Invisible Sun" ends the current cycle. When I recover, there may be further books in that setting&mdash;but unlike previous MP/EG books, they'll be self-contained stand-alone stories that fit in a single book, rather than episodes in mind-buggeringly gigantic sagas. ("Merchant Princes", at 640,000 words, is longer than "The Lord of the Rings" or "War and Peace"; "Empire Games" isn't so much a trilogy as a novel in three installments, and weighs in at a mere 350,000 words, or about the same size of "Cryptonomicon". Please bear in mind that my best works turn out to be novellas, i.e. very long short stories or very short novels, of roughly 20-50,000 words ...)</p>
+
+<p>Meanwhile, the Laundry is going in two different directions, at high speed.</p>
+
+<p>Without spoilering "The Labyrinth Index" I think I can safely say that that book ends with an ongoing crisis that is inevitably going to ramp up to a series climax and a conclusion within another 2-4 books. I do not want to keep the series unfinished indefinitely. But I don't want to abandon the setting, either: it's too much fun. So what I'm aiming for right now (this is over a 3-5 year period, remember, and all long-term plans are subject to change) is to build a satisfying conclusion to the tale of Bob Howard, the Laundry, and CASE NIGHTMARE GREEN, while keeping the setting available for other spin-off stories. The <em>Laundry Files</em> are the workplace journals of various bureaucrats and agents working for SOE's X-Division; the <em>Laundry universe</em> is a recondite off-shoot of the urban fantasy genre that has room for vampires, elves, supervillains, yokai, kaiju, mad gods, even madder venture capitalists with <em>extremely</em> regrettable taste in software, and quite possibly Magical Girl Obsidian Heartbleed as well. The Laundry Files have a beginning, a middle, and, logically, an end: the Laundryverse, however, may well go on a lot longer (if my muse has anything to do with the matter&mdash;and, judging by the copious notes towards a non-Laundry Laundryverse novel<s>la</s> he's been dictating through a megaphone this week, that's highly likely).</p>
+
+<p>Aside from that ...?</p>
+
+<p>Notes continue towards a third Scottish police procedural novel about technology-mediated crimes that don't exist yet, but I can't really get my teeth into it until the Brexit train wreck is concluded. Notes towards possible collaborations with [REDACTED] and [REDACTED] exist, along with media project [REDACTED].</p>
+
+<p>As for my work/life balance, I'm going to see if I can change gear from trying (and sometimes failing) to push out a pair of 120,000 word novels every year, to successfully writing a single 120,000 word novel every year ... and one or two novellas which might or might not add up to the same word count. Which will mean more, rather than fewer, publication dates. Because I think I need to work smarter, not harder, if I plan to keep this up for another 20 years.</p>
+]]>
+    </content>
+</entry>
+
+<entry>
+    <title>That sinking feeling</title>
+    <link rel="alternate" type="text/html" href="http://www.antipope.org/charlie/blog-static/2018/07/that-sinking-feeling.html" />
+    <id>tag:www.antipope.org,2018:/charlie/blog-static//1.4114</id>
+
+    <published>2018-07-25T11:04:02Z</published>
+    <updated>2018-08-27T16:01:48Z</updated>
+
+    <summary><![CDATA[We are now 25 months on from the Brexit referendum. Theresa May filed notice of departure from the EU under Article 50 of the Lisbon Treaty on 29 March, 2017: on 29 March, 2019 (in 8 months' time&mdash;approximately 240 days)...]]></summary>
+    <author>
+        <name>Charlie Stross</name>
+        <uri>http://www.antipope.org/mt/mt-cp.cgi?__mode=view&amp;blog_id=1&amp;id=2</uri>
+    </author>
+    
+    
+    <content type="html" xml:lang="en" xml:base="http://www.antipope.org/charlie/blog-static/">
+        <![CDATA[<p>We are now 25 months on from the <a href="https://en.wikipedia.org/wiki/United_Kingdom_European_Union_membership_referendum%2C_2016">Brexit referendum</a>. Theresa May filed notice of departure from the EU under Article 50 of the Lisbon Treaty on 29 March, 2017: on 29 March, 2019 (in 8 months' time&mdash;approximately 240 days) the UK, assuming nothing changes, will be out of the EU.</p>
+]]>
+        <![CDATA[<p>In the intervening time, the UK has undergone a disastrously divisive general election&mdash;disastrous because, in the middle of an unprecedented (and wholly avoidable and artificial) national crisis, it returned to power a government so weakened that it depends on an <a href="https://en.wikipedia.org/wiki/Ulster_Unionist_Party">extreme right-wing sectarian religious party</a> to maintain its majority. The DUP (Democratic Unionist Party) stands for Union with the United Kingdom, and hostility towards Ireland (in the form fo the Irish Republic); they will veto any Brexit settlement that imposes a customs border between Northern Ireland and Great Britain. However, this implies that a customs border must exist between Northern Ireland and Ireland, and the two economies are so entangled that this is impractical. (The border between north and south cuts across roads, railways ... and also through farms, living rooms, and business premises.) Creating a hard border in Ireland is anathema to the government of Ireland, which will therefore veto any Brexit agreement with the UK that posits one. (It would also violate the Good Friday Agreement, but hey, nobody in Westminster today cares about <em>that</em>.)</p>
+
+<p>The Electoral Commission has uncovered <a href="https://www.theguardian.com/politics/2018/mar/24/brexit-whistleblower-cambridge-analytica-beleave-vote-leave-shahmir-sanni">evidence of electoral spending irregularities</a> in the Leave.UK and Vote Leave campaigns serious enough to justify criminal investigation and possible prosecution; involvement by <a href="https://www.theguardian.com/uk-news/2018/mar/24/aggregateiq-data-firm-link-raises-leave-group-questions">Cambridge Analytica</a> is pretty much proven, and <a href="https://www.theguardian.com/uk-news/2018/may/16/steve-bannon-cambridge-analytica-whistleblower-suppress-voters-testimony">meddling by Steve Bannon and Robert Mercer</a> has also been alleged in testimny before the US Senate judiciary committee. There's also an alleged <a href="https://www.theguardian.com/politics/2018/jun/09/arron-banks-russia-brexit-meeting">Russian Connection</a> with Aronn Banks (the main financial backer of Brexit) having been offered too-good-to-be-true investment opportunities in a Russian gold mine (according to The Observer newspaper). </p>
+
+<p>But not to worry, the will of the people has spoken! (Although it's actually the will of <a href="https://thebrexitsyndicate.com">these peope</a>&mdash;a mixed bunch of right-wing Atlanticists, hedge fund managers, warmed-over neo-Nazis, and disaster capitalists. Never mind, I'm <em>certain</em> they have only our best interests at heart.)</p>
+
+<p>For added fun and optimism, back in the summer of 2016 it looked <em>reasonably</em> likely that over the next few years we would see business continue as usual, on a global scale. This was before the election of Donald J. Trump as president of the USA. Trump doesn't understand macroeconomics&mdash;he's convinced that trade is a zero-sum game, that for every winner there must be a loser, and that trade tariffs and punitive sanctions are good. He's launched attacks on the World Trade Organization (as well as NATO) and seems intent on rolling back the past 75 years of post-WW2, post-New Deal global free trade. The prospects for a favourable post-Brexit trade deal with the United States went out the window on January 20th, 2017; Trump perceives isolation as weakness, and weakness in a negotiating partner as an opportunity to screw them. (So much for the Conservative Atlanticists and the <a href="https://en.wikipedia.org/wiki/Special_Relationship">Special Relationship</a>.)</p>
+
+<p>The EU is the UK's largest trading partner, with roughly 44% of all our foreign trade going through our EU siblings. This includes food&mdash;the cramped, densely populated UK hasn't been self-sufficient in food since the 19th century, and we import more than 50% of what we eat.</p>
+
+<p>A customs union with the EU has been ruled out unless the UK agrees to cooperate with certain EU "red line" requirements&mdash;essentially the basis for continuing free trade: for reasons too preposterous and stupid to go into this is unacceptable to the Conservative party <em>even when national food security is in jeopardy</em>. In event of a no-deal Brexit, <a href="https://en.wikipedia.org/wiki/Operation_Stack">Operation Stack</a> will become <a href="http://www.cityam.com/271495/exclusive-hard-brexit-lead-operation-stack-level-queues">permanent</a>, causing gridlock on motorway routes approaching Channel ports. Perishable goods and foodstuffs will be caught up in unpredictable protracted delays, resulting in <a href="https://www.foodnavigator.com/Article/2018/07/17/Arla-foresees-post-Brexit-dairy-problems-for-UK-consumers">dairy produce (including infant formula) becoming 'very scarce'</a>. Large manufacturing concerns with cross-border supply chains such as <a href="https://www.bbc.co.uk/news/business-44582831">BMW, Airbus</a>, and <a href="http://www.dailymail.co.uk/news/article-4140434/Car-makers-fear-won-t-survive-Brexit-Britain.html">Toyota</a> are threatening to shut down production in the UK in event of a hard Brexit; Amazon's UK manager warns of <a href="https://www.theguardian.com/politics/2018/jul/23/no-deal-brexit-civil-unrest-amazon-uk-dominic-raab">civil unrest in event of a no-deal Brexit</a>, and in event of a no-deal that doesn't include services (as well as goods) it's hard to see how the Amazon supply chain can continue to function in the UK.</p>
+
+<p>(Note: Online sales account for <a href="https://www.ons.gov.uk/businessindustryandtrade/retailindustry/bulletins/retailsales/june2018">18% of all UK retail</a> and Amazon is the proverbial 500lb gorilla in this sector. UK customers who purchase from Amazon.co.uk are, however, doing business with Amazon SarL in Luxemburg, who then subcontract fulfillment/delivery to a different Amazon company in the UK&mdash;Amazon SarL takes advantage of one of the lowest corporate tax regimes in the EU. This is obviously not a sustainable model in event of a hard brexit, and with shipping delays likely as well as contractual headaches, I think there's a very good chance of Brexit shutting down Amazon.co.uk and, thereby, close to 20% of the British retail distribution system.)</p>
+
+<p>Current warnings are that a no-deal Brexit would see trade at the port of Dover collapse on day one, cutting the UK off from the continent; <a href="https://www.scotsman.com/news/no-deal-brexit-would-clear-scottish-supermarkets-of-food-in-two-days-1-4748960">supermarkets in Scotland will run out of food within a couple of days</a>, and hospitals will run out of medicines within a couple of weeks. After two weeks we'd be running out of fuel as well.</p>
+
+<p>Note that this warning comes from <em>the civil service</em>, not anti-Brexit campaigners, and is a <em>medium-bad</em> scenario&mdash;the existence of an "Armageddon scenario" has been mooted but its contents not disclosed.</p>
+
+<p>In the past month, the Health Secretary has admitted that <a href="https://www.independent.co.uk/news/uk/politics/no-deal-brexit-blood-medicine-stockpile-nhs-health-secretary-matt-hancock-a8462531.html">the government is making plans to stockpile vital blood products and medicines</a> in case of a no-deal Brexit, and the Brexit secretary is <a href="https://www.theguardian.com/politics/2018/jul/24/contingencies-planned-to-ensure-uks-post-brexit-food-supply-says-raab">allegedly making plans to ensure there are "adequate food supplies" to cover a no-deal exit</a>.</p>
+
+<p>But before you say "well, then it's going to be all right, we'll just go back to 1939-54 era food ration books and make do and mend", we need to factor in not only Donald Trump's latest bloviations, but Global Climate Change! <a href="https://www.theguardian.com/environment/2018/jul/20/crop-failure-and-bankruptcy-threaten-farmers-as-drought-grips-europe">Europe is facing one of the most intense regional droughts in living memory</a> this summer, with an ongoing crisis-level heat wave. Parts of the UK have had the least rainfall in July since 1969, with a <a href="https://www.theguardian.com/uk-news/2018/jul/24/temperatures-to-rise-even-higher-this-week-says-met-office">severe heat wave</a> in progress; <a href="https://www.theguardian.com/world/2018/jul/24/greek-fire-survivors-all-we-have-seen-is-tragedy-and-loss">Greece is on fire</a>: <em>Sweden</em> is having a wildfire problem <a href="https://www.nytimes.com/2018/07/19/world/europe/heat-wave-sweden-fires.html">inside the Arctic circle</a> this summer).</p>
+
+<p>A Hard Brexit, <em>on its own</em>, would be a very dubious but probably long-term survivable scenario, with the UK economy taking a hit not <em>much</em> worse than the 10% downsizing Margaret Thatcher inflicted on it in 1979-80. But a hard Brexit, coinciding with the worst harvest failures in decades, ongoing climate destabilization, a fisheries collapse, and a global trade war being started by the Tangerine Shitgibbon in the White House is ... well, I'm not optimistic.</p>
+
+<p>Right now, the British cabinet seems to be locked in a suicide pact with itself. Theresa May is too weak to beat back the cabal of unscrupulous opportunists within her own party who <em>want</em> the worst to happen&mdash;the disaster capitalists, crooked market short-sellers, and swivel-eyed imperialist revenants of the <a href="https://en.wikipedia.org/wiki/European_Research_Group">European Research Group</a>. Any replacement Conservative PM would face exactly the same impedance mismatch between reality and his or her back bench MPs. On the other side of the house, Jeremy Corbyn's dislike for the EU as a capitalist entity has combined with his fear of alienating the minority of "legitimate concerns" racist voters in Labour's base so that he's unwilling or unable to adopt an anti-Brexit stance. Brexit cuts across traditional party lines; it's a political <a href="https://en.wikipedia.org/wiki/Outside_Context_Problem">Outside Context Problem</a> that has effectively paralysed the British government in a time of crisis. </p>
+
+<p>So I'm not optimistic that a no-deal Brexit will be avoided.</p>
+
+<p>What happens next?</p>
+
+<p>On a micro scale: I'm stockpiling enough essential medicines to keep me alive for six months, and will in due course try and stockpile enough food for a couple of weeks. I'm also going to try and move as much of my savings into other currencies as possible, preferably in financial institutions accessible from but outside the UK. (I expect a Sterling crisis to follow promptly in event of NDB. We saw Sterling drop 10% the day after the referendum&mdash;and <a href="https://inews.co.uk/news/brexit/nigel-farage-brexit-hedge-funds-short-pound/">certain people made a fuck-ton of money by shorting the stock market</a>; I expect it to go into free fall if our trade with the EU is suddenly guillotined.)</p>
+
+<p>On a macro scale:</p>
+
+<p>Airports and the main container freight ports for goods entering the UK will shut down on day 1. There will be panic buying. I expect widespread rioting throughout the UK and sectarian violence in Northern Ireland (contra public received wisdom, NI is <a href="https://theukbulletin.com/2018/07/06/police-investigating-separate-northern-ireland-pipe-bomb-attacks/">never quiet</a> and this summer has been <em>bad</em>.) </p>
+
+<p>A currency crisis means that goods (notably food) entering the UK will spike in price, even without punitive trade tariffs.</p>
+
+<p>There will be mass lay-offs at manufacturing plants that have cross border supply chains, which means most of them. </p>
+
+<p>You might think that as an author I'd be immune, but you'd be wrong: although paper editions of my UK books are printed in the UK, you can bet that some elements of the wood pulp and the ink that goes on it and the glue that binds them are imported. About 90% of my UK ebook sales are made as (contractually speaking) services via Amazon.co.uk (see above), the fuel that powers the trucks that ship the product to the bookstores is imported, my publishers (Orbit and Tor) are subsidiaries of EU parent companies (Hachette and Holtzbrink), and anyway, people are going to be spending money on vital necessities during the aftermath, not luxuries.</p>
+
+<p>(Luckily for me, many of my sales come from other EU territories&mdash;in translation&mdash;and from the USA. Unfortunately, <em>getting paid</em> in foreign currency may become ... problematic, for a while, as Brexit jeopardizes both currency exchange and the UK retail banking sector's ability to exchange funds overseas.)</p>
+
+<p>After week 1 I expect the UK to revert its state during the worst of the 1970s. I just about remember <a href="https://en.wikipedia.org/wiki/Three-Day_Week">the Three Day Week</a>, rolling power blackouts, and more clearly, the mass redundancies of 1979, when unemployment tripled in roughly 6 months. Yes, it's going to get that bad. But then the situation will continue to deteriorate. With roughly 20% of the retail sector shut down (Amazon) and probably another 50% of the retail sector suffering severe supply chain difficulties (shop buyers having difficulty sourcing imported products that are held up in the queues) food availability will rapidly become patchy. Local crops, with no prospect of reaching EU markets, will be left to rot in the fields as the <a href="https://www.nfuonline.com/assets/61142">agricultural sector collapses</a> (<em>see concluding remarks, section 5.6</em>). </p>
+
+<p>Note that during her time as Home Secretary, Theresa May presided over 30% cuts in police numbers. During the recent state visit by Donald Trump, virtually every police force in the UK had to cancel all leave just to maintain cover for those officers temporarily assigned to POTUS' security detail (the policing operation was on a scale comparable to the 2011 summer riots ... when there were many, many more officers available). Also, police and emergency service workers will be trying to source food, medicines, and the necessities of life for themselves and their own families: there may be significant absenteeism from critical posts just as everything comes to a head. </p>
+
+<p>I expect the government will collapse within 1-4 weeks. There will be a state of emergency, managed under the <a href="https://en.wikipedia.org/wiki/Civil_Contingencies_Act_2004">Civil Contingencies Act (2004)</a> (which replaced earlier civil defense emergency legislation). Emergency airlifts of medicines, food, and fuel may take place&mdash;but it's hard to see the current US administration lending a hand.</p>
+
+<p>Most likely the crisis will end with the UK crashing back into the EU, or at least into Customs Union and statutory convergence&mdash;but on EU maximalist terms with none of the opt-outs negotiated by previous British governments from Thatcher onwards. The negotiating position will most likely resemble that of Greece in 2011-2015, i.e. a vastly weaker supplicant in a state of crisis and near-collapse, and the British economy will take a generation to recover&mdash;if it ever manages to.</p>
+
+<p>(This is, by the way, <strong>not the worst scenario I can envisage</strong>. The worst case is that the catastrophic collapse of the world's sixth largest trading economy, <em>combined with</em> a POTUS whose understanding of economics is approximately as deep as that of <a href="https://en.wikipedia.org/wiki/Louis_XVI_of_France">Louis XVI</a>, will lead to a global financial crisis on the scale of 2007-08&mdash;but without leadership as credible as, say, George W. Bush and/or Gordon Brown to pull our collective nuts out of the fire. In which case we're looking at a global banking collapse, widespread famine due to those crop shortages, and a wave of revolutions the like of which the planet hasn't seen since 1917-18. But hopefully that won't happen, right? Because only a maniac <a href="https://www.theguardian.com/commentisfree/2017/feb/06/lenin-white-house-steve-bannon">would want to burn everything down in order to provide elbow room for a new white supremacist ethnostate world order</a>. Oops, that would be Steve Bannon.)</p>
+
+<p>Anyway: the most likely historical legacy of a no-deal Brexit will be the final refutation of the common British misconception that the UK is still a global superpower, possibly accompanied by Scottish secession and re-entry to the EU, Irish reunification in some sort of federal system, re-acquisition of Gibraltar by Spain, and the disintegration of the Conservative (and possibly Labour) parties at the next general election.</p>
+
+<p>I just hope I'm still alive at the end of it.</p>
+
+<p>Thoughts?</p>
+]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Canned Monkeys Don&apos;t Ship Well, the Remix Version</title>
+    <link rel="alternate" type="text/html" href="http://www.antipope.org/charlie/blog-static/2018/07/canned-monkeys-dont-ship-well-.html" />
+    <id>tag:www.antipope.org,2018:/charlie/blog-static//1.4113</id>
+
+    <published>2018-07-17T14:26:14Z</published>
+    <updated>2018-08-15T14:50:06Z</updated>
+
+    <summary>You thought you were rid of me. Sorry, Charlie&apos;s still on vacation for a few more days, so here&apos;s something that has nothing to do with current politics. Just to be annoying, I&apos;m going to revisit that ever-giving fount of...</summary>
+    <author>
+        <name>Frank Landis</name>
+        <uri>http://www.antipope.org/mt/mt-cp.cgi?__mode=view&amp;blog_id=1&amp;id=5962</uri>
+    </author>
+    
+    
+    <content type="html" xml:lang="en" xml:base="http://www.antipope.org/charlie/blog-static/">
+        <![CDATA[<p>You thought you were rid of me.  Sorry, Charlie's still on vacation for a few more days, so here's something that has nothing to do with current politics.  Just to be annoying, I'm going to revisit that ever-giving fount of joy, slower than light (STL) interstellar travel.  You may think that, because it's not physically impossible, that it's inevitable that humans will travel this way one day.  Sadly, it looks like blasting your way between the stars the hard way requires magical technology too, just as FTL does.  </p>
+
+<p>We've talked about this before on the blog, but unfortunately, the really good conversation was about 800 comments in and about 8 (?) years ago, so you can't just google it.  Here, I'm going to cover two points: why canned monkeys don't ship well, and what the precursors to STL would look like, so that we'll know if our society ever starts preparing itself to expand into space at less than the speed of light.  <br />
+</p>]]>
+        <![CDATA[<p>"Canned monkeys don't ship well" refers to the problem of keeping people alive in interplanetary or interstellar space (this for the two people who didn't know it already).  There are a lot of problems, what with providing air, water, food, radiation protection, decent meteor defenses, a working clothes cleaner, producing food reliably, recycling trash, keeping people healthy and able to step onto a planet again, and last but not least, completing a human life cycle from conception through birth to maturity and senescence.  Many of these are provided by Earth, and the rest require more space than anyone currently has on the International Space Station (ISS).  That's why, for instance, they don't have a clothes washer on the ISS.  They wear their clothes for a week or so depending on what it is, and throw them out.  More insidious problems have to do with what the lack of gravity does to the health of humans, plants, and animals.  Correct me if I'm wrong, but I don't think any plant or animal has successfully completed a life cycle (seed to seed or animal to animal) entirely in freefall.  And, if you read Chris Hadfield's <i>An Astronauts Guide to Life on Earth</i>, he's quite candid about how extendedly unpleasant it was to reacclimatize to Earth after spending a year in space.  It wasn't just reflexes--his feet couldn't tolerate the weight on them, he had rashes and all sorts of weird symptoms that took days to go away, and weakened bones that took at least a year to go away.  It's uncomfortable to get into freefall, it's painful to get out of freefall after an extended time in it, it's not just humans that have problems, it seems to be most eukaryotes do, and we still need to figure out how to work around this.  Magic, obviously.  Just wave that wand, and the problems go away.  But what exactly is the wand you're waving?  CRISPR?  Vibrating pants?  Some wonderful pharmaceutical suitable for plants, humans, and fish (gravipramine?)?</p>
+
+<p>Fine, you say, my interstellar ark will spin to make up for this problem.  And the ship will be huge, so you can have not just your damned washing machine but vast pools of water as radiation shields (as in <i>Anathem</i>).  This is great.  Heck, we'll even assume that you have steering and propulsion systems that can handle pushing a great sloshing gyroscope in a precise direction for centuries.  Yeah, that.  It'll be fun to steer your spindizzy when there's a lot of weight moving around inside it.  The wobbling thrust to compensate will be fun too, and keeping this coupled set of chaotic oscillators from going out of control will be <i>easy</i>, of course.  All we need is a magic navigation system, magic because it doesn't just steer a wobbling gyroscope impeccably, it does it for centuries without error, and with rapid collision avoidance too.  Isn't magitech wonderful?</p>
+
+<p>This is where we get into the engineering challenges.  I'm certain, for instance, that we can build computers that last 50 or 100 years.  After all, the Voyager space probes are still kind of working, 40 years later.  Actually, there's a fun little problem here: a few bespoke resilient computers for expensive space probes won't disrupt a consumer electronics market built on planned obsolescence, but what if you're building an effectively immortal (to a first approximation) system?  Won't that decimate the local computer industry, when everybody wants a computer that they can pass on to their kids, rather than discarding, just so that a team of engineers can stay employed making replacements?  After all, STL voyages last decades to centuries, and the electronics all have to work forever, with only onboard repairs.  This is actually be one of the precursors to deep space colonization, that computers stop being made to fall apart, but instead are built simultaneously rugged, long-lived, and easy to repair.  Or, of course, we could put an entire computer fabrication facility on every spaceship.  I'm sure that won't take much weight.  And swapping out the navigation system every few years should be really easy, too.</p>
+
+<p>That's just one subsystem.  If we're talking about a century or millennium long voyage (and note that these are optimistic given our current state of propulsive affairs), then to a first approximation, every bit of hardware either has to last the entire trip, or has to be totally repairable using the (recycled?) supplies brought along.  Yes, yes, I know, 3-D printing.  That will certainly be part of it, but don't you think that there's going to be critical infrastructure that just can't be reprinted ad nauseum, like critical structural elements and parts of the hull?  You'll need really good (dare I say magical?) printing capabilities to reprint a big chunk of the ship from inside the ship.  You'll also need a <i>really efficient</i> materials recycling facility to sort all the waste materials and efficiently remanufacture all the printer feedstocks.  But heck, sorting stuff into pure materials streams and rebuilding it only takes lots of energy, time, know-how, and specialized technology, which is why we don't yet do this with municipal trash.  Actually, trash management is another one of those little precursors: if idiot-proof urban recycling becomes a thing, we'll be one small step closer to space.</p>
+
+<p>Then we've got the big noise, the interstellar medium and the fun of ramming into it at high speeds.  Raising your kids in the middle of a firing range or next to the containment shell of a nuclear reactor is positively tame in comparison.  Interplanetary and interstellar space are astonishingly good vacuums (better than we can readily make on Earth), but they're not empty.  Worse, the stuff in space tends to move really, really fast, which means it has a lot of energy.  Bullets travel at around 1 km/sec, but meteors travel at 10 km/sec and above, and an STL spaceship needs to get moving much faster than this to make decent time between the stars.  Even the best steering system can't get a ship (especially a huge, spinning, sloshing ship) rapidly out of the way of some bit of interstellar debris.  No, we need shields, and those shields need to be fixable or replaceable from inside the ship, because humans aren't going to survive very well either out in that shooting gallery.  Yes, anti-micrometeorite armor (like <a href=" https://en.wikipedia.org/wiki/Whipple_shield">Whipple shields</a>) works on a different principle than terrestrial armor and wouldn't stop a bullet, but even it needs to be replaced, and a starship will occasionally run into bullet-sized space junk at ultraballistic speeds.  So we need magical armor.  And magical radiation shielding too, preferably in the shape of a mobile cowling, so that robots and humans can get outside and work on the starship hull, under cover, and not die rapidly.  More magic!  Or heck, I'd settle for a force field at this point.</p>
+
+<p>And yes, there's a rocket firing for years to centuries to push the starship up to speed.  How long do real world rockets fire for, again?  The starship engine is another one of those magical technologies.  While yes, ion engines have fired continuously for years (on the Dawn space probe, for example), their thrusts are tiny, equivalent to the weight of a piece or two of paper in your hand.  Since space is effectively frictionless, those tiny thrusts add up, but only on relatively light-weight spacecraft, over interplanetary distances, and over a few years.  We need extremely high thrust and for centuries, and it's not clear how to get this.  The closest we might want to get is an Orion drive  powered by hydrogen bombs, but then we've got to store those beasts indefinitely.  And I'm sure everyone wants to grow up immediately adjacent to a nuclear test range, protected by some really, really good shielding that will have to be repaired in house, even though it's a wee bit radioactive.   </p>
+
+<p>Then, once we get to the new planet, we've got to land on it, repeatedly.  So we need landers that can boost themselves back up to orbit, ideally in a single stage.  That's easy, we're developing SSTO (single stage to orbit) technology now.  Right?  Well, the little interesting challenge is that your lander has to be full of fuel to take off again.  Indeed, without magic fusion rockets or some such, almost all of the lander's weight when it lands has to be fuel.  And it's going to be really hot on landing, as it decelerates from orbital speed (Mach 10+) down to zero.  So you're flying the equivalent of an ostrich egg full of rocket fuel, and decelerating it from Mach 10 to zero, landing on a totally unimproved landing spot (so the lander either has to be able to hover or land in the water, take your pick), and then take off from that spot (or the water) again.  And if you think the water launch of a supersonic plane is easy, you really should google "XF-2Y Sea Dart." Anyway, making conventional rocket landers more magitech to work.  We could use Orion technology to land and take off, but then the lander is going to have to land, erm, quite a long distance from wherever the colony is.  That's going to be a bit tedious, especially the part where they have to repair the road after every launch or landing.  </p>
+
+<p>Finally, we've got the problem of using the toilet.  Yes, I know space toilets have come a long way.  Here I'm talking about recycling nutrients, all 17 of them.  People have tried living in closed ecosystems since the 1970s, and it's a chore.  I saw a description of one DIY experiment that said that the man involved had to produce feces of the correct weight and composition every day, just to feed the recycling system that fed the plants that fed him.  If you've got a small, closed ecosystem, shit can't just happen, it has to be excreted in precise amounts and on schedule.  Earthly ecosystems are resilient to when poop happens because there are huge surpluses of some nutrients (like nitrogen in the air).  This gives us a fair amount of slack in how nutrients get processed.  Dead wood can lie around for centuries in the desert without causing all the plants around it to die from lack of carbon.  Unfortunately, when you get into a smaller ecosystem, the surplus nutrient pools are smaller.  So, if there's too much dead wood around (or unprocessed feces) you really could starve, and if you don't have enough oxygen for the microbes to break down the dead wood, you could suffocate as the microbes got to work recycling your waste.  Biosphere 2 ran into problems associated with this.   Ideally, you want the starship's biosphere to be as big as possible for stability.  Simultaneously you need to minimize its weight and size to make it easier to send to another star system.  Magic ecosystem handling?  That's the easy solution.  The hard solution is making sure that everyone on the ship is more capable of running an ecosystem than are almost all PhD ecologists currently working (that would include me, incidentally).  </p>
+
+<p>Speaking of which, the crew: all astronauts, the best of the best, right?   Good breeding stock and all?  And their grandkids are going to settle the new planet?  Well, erm, yeah. There are problems here too.  One is that humans don't breed true, so amazingly talented people tend to have less talented kids; it's called regression to the mean.  In a multigenerational setting, you have to allow for incredibly talented initial crew getting old, becoming incompetent, and passing off their responsibilities to their less-talented offspring.  That's tricky.  You also have to allow for people being incapacitated, whether they are young, old, pregnant, sick, or drunk.  Yes, drunk.  One of my proposals for dealing with the shortcomings of a closed ecosystem was to designate 10% of the grain crop to making beer, so that people could get drunk occasionally.  The point wasn't that alcoholism was good, it's that if your nutrient cycling is so tight that you can't afford the surplus crop needed for an occasional party, then you're absolutely incapable of dealing with problems that incapacitate part of the crew, let alone storing surplus food for when it's needed.  Having a system that's resilient to people getting drunk occasionally is one way to make sure that your system can also deal with more serious problems.  And, if there's a crop failure, the grain that would have gone to alcohol can be used for food.  </p>
+
+<p>I could go on, but there are three points that really need to be made instead.  One is that STL can involve as much magic technology as FTL.  It doesn't involve breaking Einstein, but Einstein's not the only scientific hurdle out there.  All sorts of things are permitted by general relativity but physically or logistically impossible.</p>
+
+<p>The second is that our species isn't ready for the stars.  We're not magical enough.  If we were getting close, the precursors for interstellar technology would already be around, changing our lives.  For instance, if we could almost build a starship, it would be possible for an (evil) magnate to build a secret lair that was impenetrable to anything including a nuclear blast (starship shielding).  His minions could take shelter in that lair, seal the entrances, and live in there under his dynasty for centuries, with no problem at all (closed ecosystem with indefinite recycling, plus social engineering).  Climate change would be a non-issue for the super-rich, because their castles would be proof against anything the climate or outsiders could throw at them.  And we'd have the equivalent of the GNP of Russia to literally throw away in making a starship that would send a few hundred people on a one way trip to a nearby star, since that's about the level of resources you'd need for a starship.  So yeah, we're not there yet.   This isn't to say that you can't write a story using STL, but it would be good if you spread the magic technology more widely than just in your ship.  Why should people have starships in space, but only the <i>Whole Earth Catalog</i> planetside?  Starship tech makes for great secret bases and mechanized armor, if nothing else.  And every character won't be able to just fix a toilet, they'll have the whole system piped through their closet composting and growth chamber to feed them a treat a few weeks later.  In an STL enabled world, proving you can take care of your own crap should be a rite of passage akin to getting a driver's license today.  </p>
+
+<p>The final point is one that I'm sure is well-known to SF cognoscenti: there's a reason so many SF writers have used FTL, gravity control, reactionless drives, and force fields.  They make things easy.  Instead of getting into the aeroponic weeds about how everybody must cycle their nutrients through the system for centuries, you just wave at least two of those magic wands and all of the difficult STL technical challenges go away. You can speed from star to star before your life support runs out, land on planets and take off as many times as you want, and interplanetary and interstellar meteors won't kill you, because you're not about to run into them at high speed without proper shielding.  They're not stupid tropes, just overexposed because they're so gosh darned useful.  I may be wrong, but I believe that the SF writers who originally proposed this tetrad knew enough about science and engineering to have a good idea of the problems they were avoiding by using them.  Sadly, we've since discovered that the problems were even worse than they originally thought.  Perhaps later generations of SF aficionados have forgotten and need to be reminded?  </p>
+
+<p>What did I miss?  Heat, did you say?  Power plants? Shipping corpsicles and thawing on arrival?  Put 'em in the comments.<br />
+</p>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Holding Pattern</title>
+    <link rel="alternate" type="text/html" href="http://www.antipope.org/charlie/blog-static/2018/07/holding-pattern-5.html" />
+    <id>tag:www.antipope.org,2018:/charlie/blog-static//1.4112</id>
+
+    <published>2018-07-08T19:26:55Z</published>
+    <updated>2018-08-06T10:56:06Z</updated>
+
+    <summary>So last week I finished the rewrite of &quot;Invisible Sun&quot;, the third Empire Games novel, which feels as if it&apos;s been going on forever (I began it in mid-2014). The delivered manuscript is about 30% longer than the previous draft...</summary>
+    <author>
+        <name>Charlie Stross</name>
+        <uri>http://www.antipope.org/mt/mt-cp.cgi?__mode=view&amp;blog_id=1&amp;id=2</uri>
+    </author>
+    
+    
+    <content type="html" xml:lang="en" xml:base="http://www.antipope.org/charlie/blog-static/">
+        <![CDATA[<p>So last week I finished the rewrite of "Invisible Sun", the third Empire Games novel, which feels as if it's been going on forever (I began it in mid-2014). The delivered manuscript is about 30% longer than the previous draft and 25% longer than the two earlierbooks, because of all the loose ends I was trying to tie up, and it all took longer than expected.</p>
+
+<p>On Tuesday I'm off to <a href="https://en.wikipedia.org/wiki/Toruń">Toruń</a> in Poland as a guest of honour at <a href="https://szim.polcon2018.org/index.php?go2=program">Polcon</a>, the oldest Polish science fiction convention. I've got a relatively quiet summer (although I might be doing a panel at MCM Comicon in Glasgow in mid-September and doing a reading in Berlin earlier in the month, subject to venue). Then in October I'll be a guest of honour at <a href="https://vcon.ca">Vcon 42</a> in Vancouver; I may also be wandering around Canada for a couple of weeks before/after Vcon, but won't be visiting the USA on that trip.</p>
+
+<p>Anyway, the blog is going to go quiet while I'm in Poland, but I hope to start updating it more regularly once I get home around mid-month and am no longer on deadline.</p>
+]]>
+        <![CDATA[<p>As for why I've been so quiet:</p>
+
+<p>My father died on July 20th, last year. (He was 93.) During his final illness I was trying to rewrite a space opera, "Ghost Engine": but as with other creative pursuits, writing novels doesn't go smoothly when the writer is stressed. In my case, dad's terminal illness soured me on the book, so I put it on the shelf for another year even though I'd just sunk 12 months' work into it. I then squeezed out the ninth Laundry Files book, "The Labyrinth Index", at high speed&mdash;it's coming out this October 30th&mdash;and flamed out. But there's no time in the schedule for flame-outs, so I had to tackle "Invisible Sun" while burned-out and exhausted ... and I still need to get "Ghost Engine" into shape for submission in 2019 and publication in 2020.</p>
+
+<p>My mother is now unwell, so I've been making weekly trips to visit her in hospital. This is stressful and isn't helping with the exhaustion: it has also prevented me from making any long-term plans. I'm therefore downing tools <em>right now</em> in an attempt to claw back enough "me" time to recharge my creative juices while dealing with the kind of unhappy family issues that come to most of us with time. </p>
+
+<p>As a side-note: I last took a sabbatical in 2007, and planned to have one in 2015 or 2016. But stuff kept happening and I'm now about 2 years overdue for a break. This time off is essential: if all goes well I hope to get back to work as usual some time in 2019, but I make no promises. </p>
+
+<p>What I <em>can</em> say is that I'm finally nearing the end of two gigantic projects dating back approximately 20 years. (There are going to be more Laundry Files novels after "The Labyrinth Index", and possibly even another Merchant Princes/Empire Games standalone novel, but I don't intend to keep the series on life support indefinitely.) Going forward, I want to reduce the number of novels I write to roughly one per year, but to write more short fiction&mdash;especially novelettes and novellas&mdash;and most importantly, to find the time to break ground and star entirely new creative works: "Ghost Engine" will probably be the first of these to come to fruition. </p>
+
+<p>TLDR: Rule #1, "don't die", is in effect for the rest of the year. Beyond that? We'll see.</p>
+]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Unsustainable Interstellar Civilization, Hotspot Colonies, and Dwarf Culture</title>
+    <link rel="alternate" type="text/html" href="http://www.antipope.org/charlie/blog-static/2018/07/unsustainable-interstellar-civ.html" />
+    <id>tag:www.antipope.org,2018:/charlie/blog-static//1.4111</id>
+
+    <published>2018-07-08T03:19:26Z</published>
+    <updated>2018-08-06T10:55:39Z</updated>
+
+    <summary>While I&apos;d like to write SFF or rewrite Hot Earth Dreams, this year I&apos;m stuck spending most of my energy fighting developers who decided not to let a good housing crisis go to waste and are busy clogging California with...</summary>
+    <author>
+        <name>Frank Landis</name>
+        <uri>http://www.antipope.org/mt/mt-cp.cgi?__mode=view&amp;blog_id=1&amp;id=5962</uri>
+    </author>
+    
+    
+    <content type="html" xml:lang="en" xml:base="http://www.antipope.org/charlie/blog-static/">
+        <![CDATA[<p>While I'd like to write SFF or rewrite <i>Hot Earth Dreams</i>, this year I'm stuck spending most of my energy fighting developers who decided not to let a good housing crisis go to waste and are busy clogging California with million dollar fire traps.  Right now, worldbuilding is my way to blow off steam, and I figured I'd pass some of it along for your amusement.  If you're a writer, feel free to appropriate anything here.  My ask for comments is to contribute to the effort: help me unpack the science in this essay, ask questions, and contribute cool worldbuilding science of your own.  If this goes over well, there are other topics we can cover.</p>
+
+<p>The subject of this essayare the three little ideas in the title.  Without further ado:</p>]]>
+        <![CDATA[<p><b>Unsustainable Interstellar Civilization</b></p>
+
+<p>Yes, I'm an environmentalist, so if you think I believe truly this, you'll also believe that Charlie's an ardent royalist.  Nonetheless, there's this meme floating around the SFF universe that the only way we'll make it to the stars is if we solve all the sustainability problems that plague global civilization today. This is correct, if we're stuck with STL (slower than light) interstellar transportation, because you can't live bottled up in a starship for centuries without mad sustainability skillz.  However, if FTL (faster than light) transportation is possible, sustainability no longer matters.  </p>
+
+<p>Yes, I know FTL isn't physically possible.  Whatever.  As a plausible explanation for how it came about, consider the following scenario: Following WWIII, the global internet was destroyed, simply to prevent cyberattacks from continuing to wreck civilization all over the world.  The internet backbone was physically severed, and Kessler syndrome destroyed satellite communications.  No WMDs were deployed in WWIII, but it turned out the price of democracy (and autocracy) was isolation.  That left a number of large data centers sitting idle, so some bright bulbs decided to repurpose these behemoths for deep learning and evolutionary engineering, to solve society's problems.  One of the problems they threw at the data centers was The Theory of Everything; they fed in vast libraries of particle accelerator and cosmological data, and out popped the Theory.  It didn't make any sense, but when they plugged numbers into the equations, the resulting predictions were accurate.  One of the weird things about how the Theory of Everyhing handled spacetime was that C wasn't the limit we think it is now.  When this theory was plugged into an evolutionary engineering system with an absurdly optimistic set of output specs, after some huge number of iterations, the system spit out a working FTL drive.  Again, the design made no sense, but it could be built and flown, and it worked.  Why it works is a mystery, because the systems weren't designed for helping humans decipher their outputs.  </p>
+
+<p>When you have FTL, you don't need long-term sustainability, so long as the rate at which successful colonies are founded is greater than the rate at which established colonies fail, with successful colonies being those that can build their own starships and found their own colonies.  There are actually a number of Earthly species that live this way, and there's a whole little scientific field, metapopulation dynamics, that studies them.  If humans can learn to pull off this trick with our extraterrestrial colonies, in theory we can expand indefinitely, especially if we expand slowly enough to return to this section of the galaxy in, say 50-100 million years, after which the planets we formerly colonized have fallowed long enough for us to colonize them again (basically by recycling the top kilometer or two of crust).</p>
+
+<p>The way it works is that, once the first settlers on a new planet demonstrate that they won't die horribly from allergies, pathogens, or getting buried under the excrement of herds of titanosaurs, they then spread out to build mining settlements all over the planet, high-grade all the most accessible mineral deposits, drill for oil, and grow the infrastructure needed to build starships.  With starhips built and trade links established, they grow into a mature colony over the course of a few centuries, all the while founding as many daughter colonies on new planets as possible.  Eventually, they run into serious pollution problems, loss of usable mineral deposits, changing climate (both natural through the equivalent of Milankovich cycles, and anthropogenic), and a biosphere that coevolves to exploit the colony, because that's just what life does (think pesticide resistant bugs, coyotes, superweeds...).  At that point, the colony starts to fall apart.  Interstellar trade shifts away from it (after all, whatever's causing them to collapse them might be contagious).  Ultimately the survivors hang on to become a truly resilient indigenous population in a backwater world--or all die horribly as their critical infrastructure fails.  Their fate doesn't matter to our interstellar civilization, because it has literally already moved on to new frontiers, boldly going where no man has gone before.  So long as they can find new worlds to conquer, they can go on forever.</p>
+
+<p>Oh yes: planets, you ask.  Why planets and not, say, asteroids?  Or ice moons?  The short answer is gravity, radiation shielding, atmosphere, and biosphere.  We still haven't figured out how to complete a human life cycle in space, and it's not clear it's possible.  We require gravity, and unless someone invents a usable gravity generator, we need planets to warp space for us.  Even if someone does invent a gravity generator, on a planet you get gravity as part of the price of entry.  If that planet has an active core, you also get a magnetosphere, which helps a lot with radiation shielding, plus things like plate tectonics.  We don't have decent, light radiation shields either, so until people start building force fields that keep out radiation, a magnetosphere is essential.  A nice, oxygen-rich atmosphere also does a lot to moderate the radiation experienced on the surface, and again, with a planet with a biosphere, you get this for free.  And you can (to a first approximation) breathe the air.  And yes, an alien biosphere can be counted on to cause problems.  However, life does a lot of useful things, one of which is concentrating elements into ore bodies (something bacteria do with some elements).  A combination of plate tectonics and an active biosphere means that you've got possibilities for a lot of concentrated ore bodies, petrochemicals like oil, and useful biochemicals--all the stuff you need to build a starship.  While asteroids have these elements, they don't have them so much in concentrated ore bodies, so you've got to spend a lot of energy refining asteroids into useful feedstocks and dealing with the slag.  The bottom line is that alien biospheres are dangerous, but so is living on an asteroid, and I suspect the former is the less dangerous option, at least for humans.</p>
+
+<p><b>Hotspot Colonies</b></p>
+
+<p>So you've found a fine, middle-aged planet, and you want to settle it (there's a little aside here about the evolution of planetary crusts that I won't go into here--ask in comments).  Where do you site the first colony?  My suggestion is to locate it on a mid-ocean, hotspot volcano, like Hawai'i, Iceland, or Tenerife.  The advantages are that you're dealing with an isolated, fairly simple ecosystem, and if island species are sufficient to overwhelm your immune system and rot your brain (or cover you in piles of dung), you wouldn't have survived the mainland either.  As the Polynesians and Guanche demonstrated, it's possible to terraform an island using neolithic technology, so you can probably establish an island colony with the contents of one or a few starships, even with 21st Century tech.  Moreover, islands are quite fertile, both from the elements coughed up by the volcano and also from the excrement left behind by sea life hauling out on the island or using it as a rookery.  Yes, what I'm recommending will result in the extinction of many no-doubt fascinating, even cuddly, island species, but if you're planning to do that on a massive scale anyway (it's called terraforming for a reason) and you have to start small, then it makes sense to start on mid-ocean volcanoes and see if you can establish a beachhead there.  If living on an idyllic, isolated volcanic island causes your children to die horribly, then it's likely that you're not going to be able to successfully colonize this world anyway.</p>
+
+<p>To successfully colonize a planet, though, you can't stop at one island chain.  Islands may be good for agriculture, but they're missing things like the rare earths lithium that you'll need for electronics and batteries.  Mainland settlements are necessary for the long-term success of a colony.  At a minimum, there have to be mines and oil wells, extractive operations to feed back to the main colonies on the islands.  At a maximum, the entire planet can be colonized and terraformed.  But for a first colony, I'd suggest targeting a hotspot volcano in the middle of a big ocean.  We know how to settle those on Earth.  </p>
+
+<p>Yes, I know there's a lot of planetology I'm ignoring here, like the story of planetary crust evolution.  If people are interested, we can discuss it in the comments.  </p>
+
+<p><b>Dwarf culture</b><br />
+ <br />
+Red dwarf exoplanets, I mean.  Can life even exist on a planet orbiting a red dwarf star?  I have no clue, although reading the dueling model papers is fun.  Here I'm assuming it's possible, but whether this is plausible is something to hash out in the comments. Anyway, assuming oxygenic biospheres can form on planets orbiting red dwarf stars, and assuming humans can live there...well, life gets interesting.  The problem with red dwarf stars is they have the bad habit of emitting large blasts of x-rays and coronal mass ejections, so for humans, the best place for a long-term colony is either underground or behind a mountain.  Being in the shade of a volcano isn't a bad idea.   </p>
+
+<p>Shade?  That's the second issue.  Red dwarfs are cool little stars, and that means that the habitable zone where water is liquid is far closer than Mercury is to our sun.  A year for a habitable dwarf exoplanet is on order of days to weeks.  As a result, the planet almost certainly has no moon(s) and it is tidally locked to the star.  Tidal lock means that the planet rotates one day in one year, so that one side of the planet always faces the red dwarf, while the other is in perpetual darkness.  The planet stays habitable because all the water on the planet flows to either the front side (so there's a huge ocean under the sun, due to a massive day/year long tidal bump) or the backside (where it freezes, except that heat from the ground below melts water at the base of the glacier, and this flows somewhere).  Anyway, the star evaporates water and heats air, which together drive formation of huge storms under the sun, but which also move a lot of water and hot air around the rest of the planet, driving a planet-wide atmospheric circulation cell, so that hot air travels towards the back of the planet, while cold air moves to fill in the gap, and the whole thing reaches some sort of windy stable system.  </p>
+
+<p>There's probably no volcanic islands directly under the red dwarf (the sea's too deep there), and you wouldn't want to live there anyway, with perpetual hurricanes.  The better place to live is closer to the terminator between day and night, where the sea is shallower and there are perpetual shadows behind the volcanoes.  Or you can dig in.  Earthly crops, unless they're massively genetically engineered to have photosystems that don't need ultraviolet light, will have to be grown in greenhouses, but with the sun in the same place in the sky, even setting up massive solar farms is pretty trivial, assuming you don't simply posit a fusion planet to power it all.  </p>
+
+<p>As for human culture on a red dwarf planet, that's where it gets weird. To start with, it's underground or in the shade.  Sunbathing is a risky sport at best, and you'd better be wearing a dosimeter when you're casting a shadow.  Timekeeping is even weirder.  Humans have circadian rhythms as does most terrestrial life, so keep track of days, weeks, and so forth is useful in a red dwarf culture.  However, there's no reason for everyone to stay on the same day-night cycle, because the sun never changes position.  Why not organize the colony around shifts, say, three eight-hour shifts in a 24 hour notional day.  It doesn't correspond to what's going on with the local sun, but it helps the colony be more productive and keeps everyone on time.</p>
+
+<p>This is where dwarf culture comes into being.  Since I like corny slang, I suspect that, in an FTL culture, "dwarf" will shift from meaning vertically challenged and refer to anyone who grew up on a red dwarf planet.  After all, an underground culture where daylight is unending but which shift you work is culturally important is pretty alien to someone who grew up on Earth, with its days and nights, seasons, going outside, and not worrying about solar flares.  In terms of interstellar politics, dwarves from different colonies may find that they have more in common with each other than they do with people who grew up on swiftly spinning planets like Earth.  Since there are a lot of red dwarf stars out there, factional splits between dwarf and "normal" colonies could have huge political implications for how interstellar civilization works.  Working out the details is where the fun begins for the writer.</p>
+
+<p>That's my three tidbits.  Feel free to add your favorite exoplanetology lessons for writers in the comments below.</p>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>SF For Nothing, Stories For Free</title>
+    <link rel="alternate" type="text/html" href="http://www.antipope.org/charlie/blog-static/2018/06/sf-for-nothing-stories-for-fre.html" />
+    <id>tag:www.antipope.org,2018:/charlie/blog-static//1.4109</id>
+
+    <published>2018-06-20T17:08:44Z</published>
+    <updated>2018-07-26T10:19:10Z</updated>
+
+    <summary>Hello strange people: by way of introduction, I am Dan Ritter, occasionally seen in the comments section as -dsr-. I live outside of Boston and work in Cambridge, doing various bits of computer work just off of the MIT campus...</summary>
+    <author>
+        <name>dsrtao</name>
+        <uri>http://www.antipope.org/mt/mt-cp.cgi?__mode=view&amp;blog_id=1&amp;id=145</uri>
+    </author>
+    
+    
+    <content type="html" xml:lang="en" xml:base="http://www.antipope.org/charlie/blog-static/">
+        <![CDATA[<p>Hello strange people: by way of introduction, I am Dan Ritter, occasionally seen in the comments section as -dsr-.  I live outside of Boston and work in Cambridge, doing various bits of computer work just off of the MIT campus for a small financial software firm -- if you don't work for a bank or brokerage, you probably haven't heard of it.</p>
+
+<p>I once suggested to Charlie that since the Indian Navy was having budget problems, they might agree to sell a de-militarized Krivak-class frigate, which would make an excellent evil billionaire's yacht. </p>
+
+<p>Today my subject is "free SF", by which I mean stories that you don't have to pay money to read. That doesn't necessarily mean that they are in the public domain, or that the author has given up copyright; it just means free of required monetary cost. Some authors do that as a sort of advertisement for their work; some do it because it makes them happy, some do it because they don't want to put it up for sale (or can't -- that's a whole class), and some are doing it for the exposure so that they can build an audience. All of this is only viable because the Internet has such a low marginal cost. For me, the best thing about free SF is that I have a zero-risk opportunity to read new authors, and the second best thing is that I have more money to buy books.</p>
+]]>
+        <![CDATA[<p>There are some free stories by Charlie over on the sidebar, of course. I like TOAST quite a lot, but I recommend you stay away from Scratch Monkey. (The title derives from the sad tale of Mabel the swimming monkey -- you may gurgle that at your own emotional risk.) Tor.com has published some of his short stories and novellae, too -- Equoid, Overtime, and Down on the Farm, among others.</p>
+
+<p>The tradition of magazines publishing stories, reviews and discussion is still alive, and some of them are freely available. </p>
+
+<p><a href="http://strangehorizons.com">Strange Horizons</a> publishes online for free, and is run exclusively on donations. They occasionally run fundraisers where content is unlocked progressively as donations come in. You may have heard of some of their authors -- Saladin Ahmed, Eleanor Arnason, Mishell Baker, Elizabeth Bear, John Scalzi, among many others.</p>
+
+<p><a href="http://clarkesworldmagazine.com">Clarkesworld</a> is an SF magazine published online for free, and you can buy epub copies for reasonable fees, subscribe directly for automatic delivery, and buy an annual collection in print or epub.  They've run stories by Kij Johnson, Tobias Buckell, Aliette De Bodard, Ken MacLeod, Elizabeth Bear.</p>
+
+<p><a href="https://uncannymagazine.com">Uncanny Magazine</a> is also online for free -- you can read the first half immediately on the publication date, as an inducement to buy the epub or PDF version, and the second half becomes free a month later. Naomi Novik, Nalo Hopkinson, Zen Cho and overachiever Elizabeth Bear have all been in there in the recent past.</p>
+
+<p>Once upon a time, SF novels were shorter. Slaughterhouse Five is actually just under the 50K word threshold that the Hugos use for novels. The reasons for the growth has been <a href="http://www.antipope.org/charlie/blog-static/2008/12/why_are_sf_and_fantasy_novels.html">adequately covered here</a>  in the past. The tradition of serializing novels in magazines obviously works better when the novels are shorter, but authors can now put things online without limit. Here are some that I've particularly enjoyed:</p>
+
+<p>Over at <a href="http://qntm.org/fiction">qntm.org</a>, Sam Hughes has a bunch of short stories and two excellent novels, which he released in serial fashion: Fine Structure and Ra. What I'd really like to direct your attention to is Ra.</p>
+
+<p>In 1970 or so, magic is discovered. This makes a lot of people very unhappy. Most are unhappy because their world-view is based on science, and they now need to fit non-supernatural explanations to these events. Naturally, research leads to academics, and academics means degree programs. Ra starts off as the story of Laura Ferno, Ph.D candidate in Applied Thaumic Engineering with an eye towards harnessing magic to build spacecraft, and her sister Natalie who is an academic on the theoretical side of magic. One night Laura is mugged, she defends herself with magic spells, and before you know it ten chapters have gone by and the fate of the world hangs in the balance.</p>
+
+<p>If you have a couple of weeks available to read a compelling story about the problems of superheroes and supervillains and the nearly nonexistent line dividing them, let me recommend <a href="https://parahumans.wordpress.com/">Worm</a>. It in turn has inspired remarkably good fanfiction: <a href="https://www.fanfiction.net/s/12404721/1/Taylor-Varga">Taylor Varga</a> is nearly as long (1.5 million words) which is not yet finished.</p>
+
+<p>One final bit of fan fiction: <a href="https://archiveofourown.org/works/4777523/chapters/10928543">Honor Among Thieves</a>.  If you've read through David Weber's Honor Harrington series and wished that he would finally wrap it all up, you're doubly lucky. First, it looks like his latest entry is the beginning of the end. Second, in 2015 an author with the pen name of Bracketyjack wrote a wholly satisfying series conclusion in a style almost but not quite exactly like Weber -- it's less annoying, on the whole -- taking about two books worth of words to do it.</p>
+
+<p>What have you read for free lately? And where did you get it?</p>
+]]>
+    </content>
+</entry>
+
+<entry>
+    <title>The Pivot</title>
+    <link rel="alternate" type="text/html" href="http://www.antipope.org/charlie/blog-static/2018/06/the-pivot.html" />
+    <id>tag:www.antipope.org,2018:/charlie/blog-static//1.4108</id>
+
+    <published>2018-06-11T15:54:52Z</published>
+    <updated>2018-07-18T11:11:26Z</updated>
+
+    <summary>Something huge is happening in the UK right now, and I wonder where it&apos;s going. Brexit requires no introduction at this point. Nor, I think, do the main UK media players. With the exception of two newspapers (The Daily Mirror...</summary>
+    <author>
+        <name>Charlie Stross</name>
+        <uri>http://www.antipope.org/mt/mt-cp.cgi?__mode=view&amp;blog_id=1&amp;id=2</uri>
+    </author>
+    
+    
+    <content type="html" xml:lang="en" xml:base="http://www.antipope.org/charlie/blog-static/">
+        <![CDATA[<p>Something huge is happening in the UK right now, and I wonder where it's going.</p>
+
+<p>Brexit requires no introduction at this point. Nor, I think, do the main UK media players. With the exception of two newspapers (The Daily Mirror and The Guardian) the national papers have been <a href="https://www.theguardian.com/politics/2016/nov/04/enemies-of-the-people-british-newspapers-react-judges-brexit-ruling">uniformly pro-Brexit</a> to the extent of attacking national institutions seen as being soft on Brexit. The BBC news programs have also broadly pushed a pro-Brexit line, from <a href="https://www.opendemocracy.net/ourbeeb/tim-holmes/is-question-time-s-audience-producer-really-fascist">Question Time</a> (which gave Nigel Farage a semi-permanent slot but not once invited a guest speaker from the Green Party or the SNP&mdash;both pro-Remain by policy), to the Today Program (Radio 4's news flagship), whose <a href="http://www.theneweuropean.co.uk/top-stories/brexit-coverage-on-the-bbc-1-5495191">John Humphrys pushes a hard Brexit line</a>. </p>
+
+<p>Although the referendum was framed as advisory and limited to leaving the European Union, it was received as a mandate by the Conservative hard right and their hard-left opposite numbers in Labour (who have their own reasons for disliking what they see as a neoliberal right-wing institution), and the current in-cabinet debate appears to be over whether to leave <em>all</em> European institutions <em>immediately</em>, or to provide an adjustment period for leaving organizations like the Customs Union (which wasn't on the ballot in the first place).</p>
+
+<p>Here in the real world the drumbeat of bad economic news continues. <a href="https://www.theguardian.com/business/2018/jun/11/jaguar-land-rover-to-move-production-of-discovery-from-uk-to-slovakia-jobs-solihull">Jaguar Land Rover to move production of Discovery from UK to Slovakia</a>, because <em>of course</em> they're owned by Tata, most of their output is exported, and why would an Indian company want to invest in a UK beset by pre-Brexit uncertainty? UK manufacturing output is <a href="https://www.telegraph.co.uk/business/2018/03/01/late-sell-off-wall-street-spooks-markets-traders-nervously-await/">falling at its fastest rate since 2012</a>. And the rest of the economy is doing so well that Poundworld (the equivalent of a US dollar store chain) has <a href="https://www.bbc.co.uk/news/business-44436435">collapsed and is in bankruptcy administration</a>.</p>
+
+<p>Then, last week, <em>something</em> happened. Or several somethings. (From the outside it's hard to be sure.)</p>
+]]>
+        <![CDATA[<p>One of those somethings was the retirement of <a href="https://www.theguardian.com/commentisfree/2018/jun/08/paul-dacre-gone-daily-mail-brexit-geordie-greig">Daily Mail editor Paul Dacre</a> and his replacement by Mail on Sunday editor <a href="https://www.theguardian.com/media/2018/jun/07/new-daily-mail-editor-to-be-geordie-greig">Georgie Greig</a>, a pro-European journalist. Newspaper owner Lord Rothermere remains the same, but an unattributed source described Greig's appointment as part of a process of "detoxifying the Daily Mail".</p>
+
+<p>Next, the Murdoch press began an extraordinary about-face on Brexit. For about a year now Carol Cadwalladr of The Guardian has been digging into Cambridge Analytica, the Leave.EU campaign, and possible links to Russian state agencies and oligarchs. These links were known to some pro-leave journalists as much as two years ago, but they're only now coming to public view. <a href="https://www.thedailybeast.com/how-a-journalist-kept-russias-secret-links-to-brexit-under-wraps">Aaron Banks</a> is one of the main bankers of the Brexit campaign and appears to have very cordial relations with the Russian government, not to mention half a dozen Russian gold mines; he's been called to testify before a House of Commons committee tomorrow and last week was refusing to attend. <em>This</em> week he appears to be on the back foot, with The Times going after him <a href="https://www.thetimes.co.uk/article/revealed-brexit-backer-arron-bankss-golden-kremlin-connection-7nbwc7m58">Revealed: Brexit backer Arron Banks's golden Kremlin connection</a>. Indeed, The Observer reports that <a href="https://www.theguardian.com/politics/2018/jun/09/arron-banks-russia-brexit-meeting">Arron Banks 'met Russian embassy officials multiple times before Brexit vote'</a>. The newspaper goes on to say, "Towards the end of last year, Banks issued a statement saying his contacts with "the Russians" consisted of "one boozy lunch" at the Russian embassy. Documents seen by the Observer, suggest a different version of events." (Note that Banks has a net worth in the ~£100M range: you don't print <em>anything</em> about him in an English newspaper without getting a legal opinion first.) Oh, and the Fair Vote Project is <a href="https://www.theguardian.com/politics/2018/jun/11/arron-banks-companies-sued-in-mississippi">going after him in court in the US</a>, following allegations that two companies owned by Banks may have illegally exported information on British voters to the USA (in violation of UK data protection rules) for purposes of data mining (Banks had negotiated with Cambridge Analytica prior to this move).</p>
+
+<p>Here's a summary of what we know so far, by way of Vice: <a href="https://news.vice.com/en_us/article/zm8gz9/trump-russia-aaron-banks-brexit-farage">verything you need to know about the bombshell report linking Russia to Brexit</a>. Shorter version: Banks had extensive meetings with the Russian ambassador to the UK, who is also named on the indictment of ex-Trump campaign aide George Papadopoulos; Banks also passed contact information for Trump's transition team to the Russians. So he's a critical link in the Brexit/Trump/Russia connection.</p>
+
+<p>He's not the only Brexiteer in trouble in the press. Hedge fund manager and Brexiteer Crispin Odey is accused of <a href="http://www.thisismoney.co.uk/money/investing/article-5824697/Brexiteer-Odey-bets-500m-AGAINST-British-businesses.html">shorting the British stock market to the tune of £500M</a>, effectively betting that Brexit will cause the market to fall and these companies to do badly. Brexit ultra and possible Conservative party leadership challenger Jacob Rees-Mogg is under siege by the formerly-friendly Daily Mail: <a href="http://www.dailymail.co.uk/news/article-5775673/Moggs-Moscow-Millions-Brexiteers-firm-poured-fortune-Russian-companies.html">Mogg's Moscow Millions: Brexiteer's firm has poured a fortune into a string of Russian companies with links to the Kremlim but has invested next to nothing in Britain</a>. And finally Neo-Nazi MEP <a href="http://www.dailymail.co.uk/news/article-5775673/Moggs-Moscow-Millions-Brexiteers-firm-poured-fortune-Russian-companies.html">Nigel Farage's EU pension is to be held in escrow pending the completion of ongoing fraud investigations</a> (and, as the icing on the cake, apparently the FBI have named him as a person of interest in their ongoing investigation into Russian slush money and false news).</p>
+
+<p>Let me put forward a hypothesis: </p>
+
+<p>In the real world (outside the pages of fiction) only two types of conspiracy generally take place: cover-up and collusion. A <strong>cover-up</strong> generally happens when several people or groups stand to lose money or be politically embarrassed if an uncomfortable truth becomes public knowledge. See, for example, the <a href="https://www.theguardian.com/uk-news/2018/apr/18/whistleblowers-contradict-no-10-over-destroyed-windrush-landing-cards">Home Office shredding of historical records relating to the Windrush scandal</a> lest they embarrass the Prime Minister, who was the Home Office minister who brought in the <a href="https://www.theguardian.com/uk-news/2018/apr/22/government-aware-for-years-that-hostile-environment-hurt-windrush-generation">hostile environment immigration policy</a>. And <strong>collusion</strong> generally takes place when a group of individuals or organizations stand to benefit from a course of action.</p>
+
+<p>Brexit was a classic example of a collusion conspiracy. Many of the named politicians and businessmen above stand to gain millions of pounds from a hard Brexit that causes the British stock market to fall. Others stand to make millions from juicy investment opportunities they were offered in Russia. We cannot know <em>for certain</em> what the <em>quid pro quo</em> for those investment deals were at this time, but I strongly suspect that support for Brexit (and more general socially-authoritarian right-wing policies) was part of it. </p>
+
+<p>And <em>now</em> we're seeing a <em>rival</em> collusion conspiracy surface. <em>Not</em> all billionaires stand to profit from seeing the remains of British industry sink beneath the waves, and not all of them are in the pocket of the Kremlin's financial backers. There are a bunch of very rich, rather reclusive men (and a handful of women) who probably thought, "well, let's sit back and see where this thing leads, for now" about 18 months ago. And now they can see it leading right over a cliff, and they are unhappy, and they have made their displeasure known on the golf course and in the smoke-filled rooms, and the quiet whispering campaign has finally turned heads at the top of the media empires.</p>
+
+<p>If I'm right, then over the next four to eight weeks the wrath of the British press is going to fall on the heads of the Brexit lobby with a force and a fury we haven't seen in a generation. There may be arrests and criminal prosecutions before this sorry tale is done: I'd be unsurprised to see money-laundering investigations, and possibly prosecutions under the <a href="http://www.legislation.gov.uk/ukpga/2010/23/contents">Bribery Act (2010)</a>, launched within this time frame that will rumble on for years to come.</p>
+
+<p>Even if the momentum behind Brexit proves un-stoppable at this point, the Remain faction&mdash;in the shape of the corporate and political power groups who stand to lose their fortunes as a result&mdash;will seek revenge.</p>
+
+<p>And in the large, I think it's no coincidence at all that this broke out in the same week as <a href="https://www.bbc.co.uk/news/world-us-canada-44427660">Donald Trump's epic tantrum at the G7 summit</a>.</p>
+]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Happy 21st Century!</title>
+    <link rel="alternate" type="text/html" href="http://www.antipope.org/charlie/blog-static/2018/05/happy-21st-century.html" />
+    <id>tag:www.antipope.org,2018:/charlie/blog-static//1.4107</id>
+
+    <published>2018-05-21T20:20:40Z</published>
+    <updated>2018-07-02T09:03:46Z</updated>
+
+    <summary>Here&apos;s the shape of a 21st century I don&apos;t want to see. Unfortunately it looks like it&apos;s the one we&apos;re going to get, unless we&apos;re very lucky....</summary>
+    <author>
+        <name>Charlie Stross</name>
+        <uri>http://www.antipope.org/mt/mt-cp.cgi?__mode=view&amp;blog_id=1&amp;id=2</uri>
+    </author>
+    
+    
+    <content type="html" xml:lang="en" xml:base="http://www.antipope.org/charlie/blog-static/">
+        <![CDATA[<p>Here's the shape of a 21st century I don't want to see. Unfortunately it looks like it's the one we're going to get, unless we're very lucky.</p>
+]]>
+        <![CDATA[<p>Shorter version is: there will be much dying: even more so than during the worst conflicts of the 20th century. But rather than conventional wars ("nation vs nation") it'll be "us vs them", where "us" and "them" will be defined by whichever dehumanized enemy your network filter bubble points you at&mdash;Orwell was ahead of the game with the <a href="https://en.wikipedia.org/wiki/Two_Minutes_Hate">Two Minute Hate</a>, something with which all of us who use social media are now uncomfortably, intimately, familiar.</p>
+
+<p>People will be die in large numbers, but it will happen out of sight. It'll be "soft genocide" or "malign neglect", and the victims will be the climate change refugees who are kept out of sight by virtual walls. On land there may be fences and minefields and debatable ground dominated by gangs, and at sea there may be drone-patrolled waters where  refugees can be encouraged to sink and drown out of sight of the denizens of their destination countries. This much we already see. But the exterminatory policies will continue at home in the destination zones as well, and that's the new innovation that is gradually coming online. There will be no death camps in this shiny new extermination system. Rather, death by starvation and exposure will be inflicted by the operation of deliberately broken social security systems (see also <a href="https://en.wikipedia.org/wiki/Universal_Credit">universal credit</a>), deportation of anyone who can be portrayed as an un-citizen (the <a href="https://en.wikipedia.org/wiki/Windrush_scandal">Windrush scandal</a> is an early prototype of this mechanism), and removal of the right to use money (via electronic fund transfers, once cash is phased out) from those deemed undesirable by an extrapolation of today's <a href="https://en.wikipedia.org/wiki/Home_Office_hostile_environment_policy">Hostile Environment Policy</a> and its equivalents.</p>
+
+<p>You don't need to build concentration camps with barbed wire fences and guards if you can turn your entire society into a machine-mediated panopticon with <em>automated</em> penalties for non-compliance.</p>
+
+<p>The Nazis had to <em>leave their offices</em> in order to round people up and brutalize or murder them. They had to travel to the <a href="https://en.wikipedia.org/wiki/Wannsee_Conference">Wannsee Conference</a> to hammer out how to implement <a href="https://en.wikipedia.org/wiki/Generalplan_Ost">Generalplan Ost</a>. Tomorrow's genocides will be decentralized and algorithmically tweaked, quite possibly executed without human intervention.</p>
+
+<p>Why?</p>
+
+<p>The people who buy into the idea of eugenics and racial supremacy&mdash;the alt-right and their fellow travellers&mdash;will sooner or later have to come to terms with the inevitability of anthropogenic climate change. Right now climate denialism is a touchstone of the American right, but the evidence is almost impossible to argue against right now and it's increasingly obvious that many of the people who espouse disbelief are faking it&mdash;virtue signalling on the hard right. Sooner or later they'll flip. When they do so, they will inevitably come to the sincere, deeply held belief that culling the bottom 50% to 90% of the planetary population will give them a shot at survival in the post-greenhouse world. (That's the "bottom 50-90%" as defined by white supremacists and neo-Nazis.) They'll justify their cull using the values we're seeing field-tested today racism, religious and anti-religious bigotry, nationalism, sexism, xenophobia, white supremacism. These are values with tested, proven appeal to [petty authoritarians](https://theauthoritarians.org who feel that their way of life is under threat. </p>
+
+<p>Of course there will, as time goes on, be fewer and fewer members of the murdering class, as climate insecurity causes periodic crop collapses, automation reduces the need for human labour is required to keep things running, and capital accumulation outstrips labour value accumulmation (leading to increased wealth concentration and societal stratification and rigidity). </p>
+
+<p>Who are the murderers? I'll give you a clue: they're the current ruling class and their descendants. A while ago Bruce Sterling described the 21st century as "old people, living in cities, who are afraid of the sky". I'm calling it "wealthy white people, living in cities, who are <em>afraid of the rising seas</em> (and the refugees they'll bring)".</p>
+
+<p>As for what this soft genocide will look, right here at home in Brexitland ...</p>
+
+<p>Forget barbed wire, concentration camps, gas chambers and gallows, and Hugo Boss uniforms. That's the 20th century pattern of centralized, industrialized genocide. In the 21st century deep-learning mediated AI era, we have the tools to inflict agile, decentralized genocide as a cloud service on our victims.</p>
+
+<p>Think in terms of old age homes where <a href="https://www.theguardian.com/lifeandstyle/2016/mar/14/robot-carers-for-elderly-people-are-another-way-of-dying-even-more-miserably">robots curate the isolated elderlies</a> (no low-paid immigrant workers needed) and fail to identify their terminal medical conditions until they're too advanced to treat. People fed by <a href="http://www.trueactivist.com/vertical-farm-run-by-robots-in-japan-will-harvest-30000-heads-of-lettuce-per-day/">vertical farms where solar/battery powered robots attend to the individual plants</a> (thank you, <a href="http://uk.businessinsider.com/kimbal-musk-vertical-farms-shipping-containers-2016-8"">Elon Musk's younger brother</a>), food delivered by <a href="https://www.theverge.com/2018/4/2/17189764/waymo-honda-self-driving-delivery-vehicle-krafcik">self-driving vehicles</a> from <a href="http://www.supplychainbrain.com/search-template/single-article-page/article/is-america-ready-for-the-lights-out-warehouse/">lights-out warehouses</a>, an end to high street shopping and restaurants and a <a href="https://www.telegraph.co.uk/finance/bank-of-england/11865964/The-end-of-cash-It-might-not-be-as-soon-as-you-think.html">phasing out of cash money</a>. </p>
+
+<p>Think in terms of a great and terrible simplification of our society that cleans out all the niches the underclass (which by then will include the struggling middle class) survive within.</p>
+
+<p>Think in terms of policing by ubiquitous surveillance and <a href="https://www.newscientist.com/article/dn28314-inside-chinas-plan-to-give-every-citizen-a-character-score/">social scoring</a> and behavior monitoring. Think in terms of punishment by "community service"&mdash;picking up litter on starvation wages (and I mean, wages calculated to induce death through slow starvation), where if you fail to comply your ability to purchase the essentials of life using e-cash will simply stop working. Prisons where <a href="https://en.wikipedia.org/wiki/Extensively_drug-resistant_tuberculosis">extensively drug-resistant TB</a> runs rife as a discipline on the community service peons (as in: if you receive the sanction of an actual prison sentence, they won't need to execute you: 50% will be dead within 6 months).</p>
+
+<p>There's no state censor in this regime. Just a filter bubble imposed through your social media and email contacts that downranks anything remotely subversive and gently punishes you if you express an unconvenient opinion or show signs of noticing what's missing&mdash;the way you don't see people with dark skins or foreign accents any more, for example. The corporate social media will of course comply with <a href="https://www.politicshome.com/news/uk/technology/internet/news/86105/theresa-may-uk-will-be-leader-internet-regulation">state requirements for a safe and secure internet</a>&mdash;if they want to stay in business, that is.</p>
+
+<p>We're getting a glimpse of the way this future is shaped, thanks to Trump and Brexit and, to a lesser extent, China today. Trump has discovered that in times of insecurity, the spectacle of cruelty provides a shared common focus for his supporters. This is nothing new: the Romans were there millennia ago with their festivities at the Coliseum. </p>
+
+<p>What's new is the speed and specificity with which the cruelty can be applied, and the ability to redirect it in a matter of hours&mdash;increasing the sense of insecurity, which in turn drives social conservativism and support for violent self-defense.</p>
+
+<p>There is a feedback loop in play. It may already be established globally. And it's going to kill billions of us.</p>
+]]>
+    </content>
+</entry>
+
+</feed>
